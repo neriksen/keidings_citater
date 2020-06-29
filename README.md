@@ -1,1 +1,1 @@
-Gider sku ikke lave en readme
+Gider sku ikke en readme

@@ -1,0 +1,1043 @@
+## AI-genererede Keiding-citater
+## Genereret i Hans Keidings stil af Claude Opus 4.7
+## Rå output - skal kureres før publicering på nielseriksen.dk
+
+================================================================================
+FORBRUGERTEORI (consumer surplus, nytte, indifferenskurver)
+================================================================================
+
+Consumer surplus er forskellen mellem hvad forbrugeren er villig til at betale og hvad han rent faktisk betaler. Det er som når man går på bordel og får rabat fordi det er tirsdag.
+
+Indifferenskurver er konvekse fordi vi antager, at forbrugeren gerne vil have lidt af det ene og lidt af det andet. Hvis han kun ville have det ene, skulle vi overveje om han var økonom eller bare kedelig.
+
+Nyttefunktionen u(x,y) = x^α · y^(1-α) kaldes Cobb-Douglas. Den er opkaldt efter to amerikanere der opdagede, at selv om økonomi er ligegyldigt, kan man sætte sit navn på en funktion og få evigt liv.
+
+Hvis man har to goder, kan man tegne en indifferenskurve. Har man tre goder, bliver det for besværligt, og så ender man med at få en PhD.
+
+Substitutionseffekten siger, at når prisen stiger, substituerer man over i billigere goder. Derfor findes Netto, og derfor er Irma ved at lukke.
+
+Et Giffen-gode er et gode hvor efterspørgslen stiger når prisen stiger. Det klassiske eksempel er kartofler i Irland under hungersnøden. Det moderne eksempel er lejligheder i København.
+
+Revealed preference siger, at hvis en forbruger vælger x frem for y når begge er tilgængelige, så foretrækker han x. Medmindre han er gift, i hvilket tilfælde ingen modeller virker.
+
+Engel-kurven viser hvordan forbrugets sammensætning ændrer sig med indkomsten. På et tidspunkt stopper man med at købe Dolmio og begynder at købe San Marzano-tomater fra Netto.
+
+Lumpy goods er goder man ikke kan dele. Et eksempel er en ged. Et andet eksempel er en kone.
+
+Nytten af penge er aftagende. Det ved I selv, hvis I nogensinde har prøvet at drikke den tredje bajer på en dårlig firmaskovtur.
+
+Income effect og substitution effect kan trække i hver sin retning. Det kalder vi Slutsky-ligningen, og den er opkaldt efter en russer, der formentlig var fuld da han skrev den.
+
+Hvis man graderer nytten fra 0 til 100, får man en kardinal nyttefunktion. Hvis man er underviser, får man typisk 43.
+
+Vi antager, at forbrugeren maksimerer sin nytte under bibetingelsen om budgettet. I virkeligheden maksimerer han sin nytte under bibetingelsen af hvad konen siger.
+
+Perfect substitutes er goder man er ligeglad med hvilket man får. Som Carlsberg og Tuborg, eller jurister og regnormer.
+
+Leisure og consumption er substitutter i arbejdsudbudsmodellen. Men kun hvis man har noget at lave i sin fritid, og det er der typisk ikke mange økonomer der har.
+
+Den kompenserede efterspørgselsfunktion holder nytten konstant mens prisen ændrer sig. Det er noget man kan finde på at spørge om til en eksamen for at se de studerende græde.
+
+Hicks' kompenserende variation måler hvor meget vi skal betale forbrugeren for at han er ligeglad med en prisstigning. I danske forhold er det typisk en pakke Grøn Cecil.
+
+En utilitarist vil maksimere summen af nytte. Det kan bl.a. gøres ved at skyde de ulykkelige, da de trækker gennemsnittet ned.
+
+Når vi tegner budgetlinjen, er hældningen -p1/p2. Hvis I ikke forstår det, kan I komme op til tavlen og lade som om I forstår det.
+
+Kvasilineære præferencer er når forbrugeren kun bekymrer sig om ét gode, og pengene er ligegyldige. Det er den standarde antagelse for politikere.
+
+Lancasters karakteristikmetode siger, at vi ikke bryder os om goder, men om deres egenskaber. Vi køber ikke en bil, vi køber status. Vi køber ikke en kone, vi køber en kogekone med talent for småbørn.
+
+================================================================================
+PRODUKTIONSTEORI (produktionsfunktioner, omkostninger, skalaafkast)
+================================================================================
+
+Cobb-Douglas produktionsfunktionen f(K,L) = K^α · L^β har konstant skalaafkast hvis α+β=1. Den er typisk det første man lærer, og det sidste man husker.
+
+Leontief-teknologi er når inputs er perfekte komplementer. For hver skomager skal der bruges én hammer og to søm. Derfor er Italien, hvor der er rigeligt af hamre, konkurrencedygtige.
+
+Isoquanten er niveaukurverne for produktionsfunktionen. De ser ud som konveniense indifferenskurver, fordi vi laver de samme antagelser, og vi er dovne.
+
+Den marginale substitutionsrate mellem kapital og arbejde kaldes MRTS. Den kan være høj eller lav, men i Danmark er den altid mindre end mindstelønnen ganget med fagforeningspamperens selvværd.
+
+Short-run og long-run adskiller sig ved om kapitalen er fast. I virkeligheden findes der også en very-long-run, hvor alting er variabelt, og en very-very-long-run, hvor vi alle er døde.
+
+Gennemsnitsomkostningskurven er U-formet på grund af først stordriftsfordele og derefter ulemper ved for store virksomheder. Sidstnævnte skyldes primært for mange mellemledere med LinkedIn-profiler.
+
+Marginalomkostningskurven skærer gennemsnitsomkostningskurven i dens minimum. Dette er ikke tilfældigt, men et matematisk faktum som selv sociologer burde kunne forstå.
+
+En virksomheds profit maksimeres, hvor marginalomkostning er lig marginalindtægt. Hvis virksomheden er statslig, maksimeres i stedet generaldirektørens pension.
+
+Produktionsfunktionen antager, at der er en rationel sammenhæng mellem inputs og outputs. Derfor kan den ikke anvendes på Forsvarsministeriet.
+
+Sunk costs er omkostninger, der ikke kan genvindes. Et eksempel er uddannelse i sociologi.
+
+Economies of scope opstår når det er billigere at producere to goder sammen end hver for sig. Klassisk eksempel: diamanter og blodpenge.
+
+Returns to scale handler om hvad der sker når alle inputs fordobles. Returns to sex handler om noget helt andet, som vi ikke skal komme ind på her.
+
+Kapitalens grænseprodukt falder efterhånden som man tilfører mere kapital. Det samme gælder konsulenter, der bare begynder at rende rundt og være i vejen.
+
+En rational producent vil producere så længe prisen dækker de variable omkostninger. Hvis hun kører på statsstøtte, vil hun producere uanset hvad.
+
+Duale funktioner er når man kan finde produktionsfunktionen ud fra omkostningsfunktionen og omvendt. Det kaldes Shephards lemma, og det er ligegyldigt, med mindre du skal til eksamen.
+
+Input-output-matricer er noget Leontief fik Nobelprisen for. De viser, hvor meget stål der skal bruges til at lave en bil, og hvor meget bil der skal bruges til at lave stål. Cirkulært, ja, men det gav en Nobelpris.
+
+Når vi antager frit indgang og udgang af markedet, får vi langsigtsligevægt med nulprofit. I virkeligheden er der altid en i Hvalsø, der tjener kassen på en pølsevogn, fordi ingen gider flytte til Hvalsø.
+
+Total factor productivity er det residual, der står tilbage, når vi har forklaret alt, hvad vi kan forklare. Det kaldes også "ignorance by another name".
+
+Scale economies ved fusioner er det argument, der bruges for at begrunde sammenlægninger. Hvis argumentet ikke virker, fusionerer man alligevel og ansætter en konsulent til at forklare bagefter.
+
+X-inefficiens er begrebet for, at virksomheder ikke altid er på omkostningsfunktionens minimum. Det er typisk fordi direktøren spiller golf i stedet for at arbejde.
+
+================================================================================
+SPILTEORI (Nash, Prisoner's Dilemma, Folk Theorem)
+================================================================================
+
+Nash-ligevægten er en strategiprofil, hvor ingen har incitament til at afvige ensidigt. Navnet er fra John Nash, som havde skizofreni, hvilket ikke er overraskende i betragtning af hvad han arbejdede med.
+
+Prisoner's Dilemma viser, at rationelle individer kan ende med et dårligt udfald. I det virkelige liv kaldes dette "ægteskab".
+
+Folk Theorem siger, at i gentagne spil kan næsten alt være en ligevægt. Det er grunden til, at spilteori er både nyttig og totalt ubrugelig samtidig.
+
+Stackelberg-ligevægten er når den ene spiller rykker først. Den er opkaldt efter en tysker fra 30'erne, som forstod udemærket at rykke først var en god idé.
+
+Bertrand-konkurrence mellem to virksomheder fører til marginal cost pricing. Det er grunden til at der ikke er to benzinstationer ved siden af hinanden, der begge tjener penge.
+
+Cournot-konkurrence er Bertrand lite, hvor virksomhederne konkurrerer på mængder i stedet for priser. Den er opkaldt efter en franskmand, som formentlig havde en elskerinde.
+
+Trigger strategies bruges til at opretholde samarbejde i gentagne spil. Hvis nogen bryder, skyder man dem. I USA er det bogstaveligt talt sådan.
+
+I et zero-sum spil vinder den ene hvad den anden taber. Et eksempel er skilsmisseopgør, hvor begge parter dog hævder at have tabt.
+
+Mixed strategies er når man randomiserer over rene strategier. Det er hvad man gør, når man skal vælge mellem at gå til forelæsning eller tage en bajer.
+
+Subgame perfect equilibrium kræver, at strategien er optimal i alle subgames. Det er lidt som at kræve, at et ægteskab skal fungere på alle dage, inklusive mandag morgen.
+
+Backwards induction løser endelige spil baglæns. Hvis spillet er uendeligt, kan man ikke bruge baglæns induktion, og så må man gøre noget helt andet, som jeg ikke helt husker lige nu.
+
+Minimax-strategien minimerer det værst mulige udfald. Det er strategien for paranoide mennesker, og overraskende effektiv i skak og ægteskab.
+
+Nash bargaining solution maksimerer produktet af nyttegevinsterne. Det er matematisk elegant og fuldstændig urealistisk, som så meget i faget.
+
+Common knowledge er når alle ved, at alle ved, at alle ved. Det findes stort set ikke i virkeligheden, men vi antager det alligevel, fordi det er nemt.
+
+Cheap talk er kommunikation uden omkostninger. Det er grundlaget for al politik og de fleste førstedater.
+
+Rubinstein bargaining model viser, at den utålmodige part får mindre. Derfor får koner mere end mænd i de fleste forhandlinger.
+
+Correlated equilibrium er når spillerne randomiserer baseret på et signal fra et "eye in the sky". I virkeligheden er dette eye in the sky typisk svigermor.
+
+Signaling games handler om hvordan man kommunikerer gennem handlinger. At købe en dyr ring er signalling. At betale regningen på første date er signalling. At give op og blive munk er også signalling.
+
+Perfect Bayesian Equilibrium kræver konsistente beliefs på alle information sets. Det er det teoretiske ideal for ægteskaber, men empirisk ikke observeret.
+
+Evolutionær spilteori siger, at strategier der ikke virker, uddør. Det forklarer hvorfor vi stadig har jurister, selvom det ikke er logisk.
+
+================================================================================
+MARKEDSSTRUKTUR (monopol, oligopol, perfect competition)
+================================================================================
+
+I perfect competition er alle virksomheder pristagere. I virkeligheden er alle virksomheder price-makers, og perfect competition er et teoretisk begreb som et enhjørning eller en ærlig politiker.
+
+Monopolistens marginalindtægt ligger under prisen. Det er derfor monopolister producerer mindre end det socialt optimale, og det er derfor de er så glade.
+
+Lerner-indekset måler markedsmagt som (P-MC)/P. Det er typisk højt for teleselskaber og lavt for pølsevogne.
+
+Oligopol er et marked med få virksomheder. Eksempel: danske banker. Andet eksempel: også danske banker.
+
+Natural monopoly opstår når gennemsnitsomkostningen er faldende i hele det relevante interval. Eksempler: elnet, jernbaner og Folketinget.
+
+Price discrimination af første grad er perfect discrimination, hvor monopolisten udsuger hele konsumentoverskuddet. Eksempel: tandlæger.
+
+Third-degree price discrimination er når man opdeler markedet i grupper. Studierabat er et eksempel. Aldersdiskrimination er et andet. Kønsdiskrimination kan man ikke sige noget om med alt det her #metoo-lort.
+
+Et kartell kan maksimere samlet profit ved at koordinere. Problemet er, at der altid er én, der snyder, og det er typisk grækerne.
+
+Monopolistisk konkurrence har mange virksomheder med differentierede produkter. Tænk bagere, kaffebarer og universitetskandidater i makroøkonomi.
+
+Contestable markets er markeder, hvor truslen om indgang disciplinerer de etablerede firmaer. Det er en smuk teori, som desværre ikke passer på ret meget.
+
+Predatory pricing er når en stor virksomhed sætter prisen lavt for at udkonkurrere rivaler. Det er ulovligt, men svært at bevise, lige som utroskab.
+
+Two-sided markets kræver begge sider for at fungere. Eksempler: natklubber, dating apps, og eksamener.
+
+Network externalities opstår når brugerens nytte afhænger af hvor mange andre der bruger produktet. Derfor er Facebook stadig i live, selvom det er forfærdeligt.
+
+Switching costs gør det dyrt at skifte leverandør. Dette forklarer bankerne. Det forklarer også, hvorfor folk bliver gift.
+
+Limit pricing er når den etablerede virksomhed sætter prisen lavt for at afholde andre fra at komme ind. Det er en slags økonomisk kulde-skulder.
+
+I et markedsligevægt med monopolistisk konkurrence har alle virksomheder nulprofit og overkapacitet. Det er lidt som universitetssektoren.
+
+Hvis Coase-teoremet holdt, ville der ikke være behov for lovgivning om forurening. Problemet er bare, at Coase-teoremet aldrig holder, og derfor har vi miljøministre med dårlig smag i tøj.
+
+Rent-seeking er når virksomheder bruger ressourcer på at påvirke politikere i stedet for at producere noget nyttigt. I Washington er det 90% af BNP.
+
+Et to-period monopol kan price-discriminere over tid. Det kaldes Coase conjecture, og siger, at en varigt gode-monopolist må konkurrere med sit fremtidige jeg.
+
+Entry deterrence kan opnås gennem irreversible investeringer. Typisk bygger man en stor fabrik og håber, ingen tør konkurrere. Det virker indtil kineserne kommer.
+
+================================================================================
+GENERAL LIGEVÆGT (Edgeworth, Pareto, Walras)
+================================================================================
+
+Walrasian ligevægt er prissystemet, hvor alle markeder klareres samtidigt. Den er opkaldt efter Leon Walras, som var franskmand, og altså ikke helt pålidelig.
+
+Edgeworth-boksen viser al mulig allokering mellem to agenter af to goder. Den er opkaldt efter en irer, som ikke havde noget bedre at lave.
+
+Contract curven er mængden af Pareto-efficiente allokeringer. Den hedder sådan, fordi rationelle agenter vil forhandle sig ind på den. I virkeligheden ender man altid udenfor den, og typisk hos en skilsmisseadvokat.
+
+Første velfærdssætning siger, at enhver Walrasian ligevægt er Pareto-efficient. Det er kapitalismens smukke drøm og også dens gravsten.
+
+Anden velfærdssætning siger, at enhver Pareto-efficient allokering kan opnås som en Walrasian ligevægt med passende initialfordeling. Problemet er, at den passende initialfordeling kræver en omfordeling, som ingen politisk system kan klare.
+
+Arrow-Debreu modellen inkluderer fremtidige goder og goder i forskellige tilstande af verden. Det er teoretisk smukt og praktisk nytteløst, som så meget ved dette fag.
+
+Coresen er mængden af allokeringer, som ingen koalition kan blokere. Når markedet er stort nok, konvergerer coren til Walrasian ligevægten. Jeg tvivler dog på, at det trøster nogen.
+
+Excess demand funktionen er efterspørgslen minus udbuddet. Når den er nul for alle goder, er vi i ligevægt. Når den er positiv, har vi inflation. Når den er negativ, har vi socialisme.
+
+Tâtonnement er Walras' fortælling om hvordan markedet finder ligevægt gennem en "auctioneer". Den findes ikke, men det er en god metafor, ligesom Gud.
+
+Gross substitutes sikrer, at Walrasian ligevægt er unik. Hvis goderne er komplementer, kan der være multipla ligevægte, og så bliver det hele til socialøkonomisk sovs.
+
+Sonnenschein-Mantel-Debreu teoremet siger, at aggregat efterspørgsel stort set ikke har nogle pæne egenskaber. Det er en god nyhed for dem, der ikke kan lide faget, og en dårlig for dem der kan.
+
+I en bytteøkonomi er der ingen produktion, bare allokering af eksisterende goder. Det er som et dårligt familie-middagsselskab, hvor alle kan flytte rundt på samme mængde kartoffelmos.
+
+Wealth effect i general ligevægt handler om, at dine præferencer kan ændre sig, når du bliver rig. Det er derfor, direktører begynder at spille golf og få yngre koner.
+
+Asymptotisk core-konvergens kræver, at antallet af agenter går mod uendelig. I praksis nøjes vi med tre.
+
+Indiskutabel ulighed i det første velfærdsteorem: fuldstændige markeder. Kan I nævne et marked for leukæmi-forsikring, hvis I ved, at jeres moster havde det? Godt, så har vi ikke fuldstændige markeder.
+
+Existence of equilibrium kræver typisk Brouwer's fixpoint theorem. Det er en matematisk sætning, der er så grundlæggende, at man kan bevise næsten hvad som helst med den, inklusive Guds eksistens, hvis man er topolog.
+
+Arrow-Debreu securities er værdipapirer, der betaler 1 kr. i en bestemt tilstand af verden og 0 i alle andre. Hvis vi havde alle disse, var verden perfekt. Men det har vi ikke, og derfor har vi bankkriser.
+
+I en overlapping generations model lever folk i to perioder. Det er ikke realistisk for mennesker, men præcist for dagsommerfugle og professorer på pension.
+
+Robinson Crusoe økonomi er en en-agent økonomi. Den er nyttig til at vise, at selv en enkelt person kan have problemer med allokering. Når der er to, bliver det værre. Når der er Fredag, bliver det kolonialisme.
+
+Gains from trade beviser, at alle vinder ved handel. Det er sandt i teori, men praksis taler der selvfølgelig nogle tabere, som så stemmer på Trump.
+
+================================================================================
+VELFÆRDSØKONOMI OG SOCIAL VALG
+================================================================================
+
+Arrow's umulighedsteorem siger, at der ikke findes en social beslutningsregel, der opfylder fire rimelige krav samtidig. Arrow fik Nobelprisen for dette, hvilket er et bevis på, at beviset for, at intet virker, kan give én status.
+
+Condorcet-paradokset opstår, når flertallet ikke kan beslutte sig. Eksempel: tre personer, tre alternativer, og resultatet er, at vi altid har regeringer baseret på løgne.
+
+Sen's liberale paradoks viser, at individuel frihed og Paretoptimalitet kan være inkompatible. Konklusionen er, at man enten skal opgive friheden eller logikken. De fleste demokratier vælger logikken.
+
+Utilitarianism maksimerer summen af nytte. Rawls maksimerer nytten for den dårligst stillede. I praksis maksimerer vi nytten for medianvælgeren, som typisk er en uden særligt smag.
+
+Harsanyi's veil of ignorance siger, at man skal vælge samfundsordning uden at vide, hvor man havner. Det er smukt i teori, men i virkeligheden ved alle, at far er professor og mor er læge.
+
+Borda count er et afstemningssystem, hvor man giver point til sine alternativer. Det er mindre manipulerbart end almindelig flertalsregel, men stadig ikke perfekt. Intet er perfekt, medmindre man er med i Nobelpriskomiteen.
+
+Median voter theorem siger, at i et én-dimensionalt politisk spektrum vil politikere konvergere mod medianen. Det er derfor, alle vestlige politikere lyder ens og er lige uinteressante.
+
+Single-peakedness er en betingelse, der garanterer, at der findes en Condorcet-vinder. Hvis dine præferencer ser ud som en kamelpukkel, kan demokratiet kollapse, og så er det din skyld.
+
+Strategic voting er, når man ikke stemmer på sin favorit, fordi det vil spilde stemmen. Derfor har folkestyret formentlig aldrig afspejlet folkets vilje.
+
+Gibbard-Satterthwaite-teoremet siger, at alle beslutningsregler er enten manipulerbare eller diktatoriske. Jeg ved hvad jeg foretrækker.
+
+Nash social welfare function er produktet af nytten. Den er Pareto-efficient og har nogle pæne egenskaber. Den har også hvilke ulemper, men dem glemte jeg.
+
+Bergson-Samuelson social welfare function aggregerer individuel nytte efter værdier, vi ikke specificerer. Det gør den fuldstændig uhåndterlig, hvilket er hele pointen.
+
+Rawlsian maximin er inferno for enhver, der ikke er fattig. Hvorfor skulle vi give alt til den dårligst stillede, som formentlig er dårligt stillet af gode grunde?
+
+Samuelson-betingelsen for offentlige goder siger, at summen af marginal willingness to pay skal være lig marginalomkostningen. Det er en smuk teori, som finansministeren ignorerer.
+
+Lindahl-priser er individualiserede priser for offentlige goder. De kræver, at alle siger sandheden om deres præferencer. Siden fri-rider-problemet eksisterer, gør Lindahl-priser det ikke.
+
+Clark-Groves-mekanismen får folk til at afsløre deres sande præferencer ved at straffe dem økonomisk. Det er en elegant løsning, som kun virker i lærebøger.
+
+Theil-indekset måler ulighed baseret på entropi. Jo højere tal, jo mere ulighed. I Danmark er det lavt. I USA er det højt. I DDR var det nul, men alle var lige fattige.
+
+Lorenz-kurven viser indkomstfordelingen. Hvis den ligger på 45-graders linjen, er der perfect lighed. Hvis den ligger på aksen, har én person alt, og alle andre er jurister.
+
+Gini-koefficienten er arealet mellem Lorenz-kurven og lighedslinjen divideret med hele arealet under lighedslinjen. Den siger noget, men lærer ikke særligt meget. Til gengæld kan man nemt bruge den til at retfærdiggøre en ekstra skat.
+
+Kaldor-Hicks-kriteriet siger, at en ændring er god, hvis vinderne kan kompensere taberne. Kompensationen sker dog aldrig. Derfor har vi Vestjylland.
+
+================================================================================
+MEKANISMEDESIGN OG AUKTIONER
+================================================================================
+
+VCG-mekanismen får alle til at sige sandheden om deres præferencer. Det virker, hvis man brænder bøderne. Hvis man refunderer dem, går det galt, som med alt andet i den offentlige sektor.
+
+Revelation Principle siger, at vi kan begrænse os til direkte mekanismer, hvor folk melder deres type. Det er praktisk, hvis folk lyver, hvilket de gør, specielt til Skat.
+
+Myerson's optimal auction kan øge indtægten ved at sætte en reserveringspris. Dette er grunden til, at sælgere aldrig starter budgivningen ved nul på eBay.
+
+Revenue equivalence theorem siger, at under visse betingelser giver alle gængse auktioner den samme forventede indtægt. Det er trist for den kreative auktionsteoretiker, men sandt.
+
+Anden pris-auktion er incentive compatible. Man byder sin sande værdi, og det ligger ingen noget i dét. Det er Vickrey's opfindelse, og han fik Nobelprisen for det, ligesom den gang blev det værdsat.
+
+English auction er en åben stigende auktion, som den ved Sotheby's. Den bryder revenue equivalence i tilfælde af risikoaversion, men vi bekymrer os ikke om det lige nu.
+
+Dutch auction starter højt og falder. Den bruges i Holland til blomster. Den bruges også til IPO'er, hvilket er mere eller mindre det samme.
+
+All-pay auction er når alle byder, men kun den højeste vinder. Resten betaler uden at få noget. Det kaldes også "akademisk karriere".
+
+Winner's curse er risikoen for, at vinderen af en auktion har budt for meget. Det gælder især for ægtefæller.
+
+Incentive compatibility kræver, at agenterne ikke har incitament til at lyve. Det er en høj standard, som selv politikere ikke kan leve op til.
+
+Individual rationality kræver, at agenterne frivilligt deltager. Hvis de ikke vil, kan man tvinge dem. Så er det ikke længere individual rationality, men det kan kaldes noget andet, fx diktatur.
+
+Budget balance er, når mekanismens transferer summer til nul. I den virkelige verden er budget balance ualmindeligt, fordi staten altid tager et gebyr.
+
+Mechanism design er økonomi baglæns. Man starter med det ønskede resultat og designer reglerne. Ligesom når en politiker bestiller et studie, der når frem til den konklusion, hun allerede har.
+
+Matching theory handler om at matche to grupper. Roth fik Nobelprisen for det. Han matchede nyrer med patienter. Han har også givet råd om, hvordan man matcher studerende med skoler, og ingen har været helt tilfredse.
+
+Stable matching kræver, at der ikke er to der ville hellere matche med hinanden end deres nuværende match. I ægteskaber hedder det monogami, og stabiliteten er ofte diskuterbar.
+
+Deferred acceptance algoritme af Gale og Shapley er matching-algoritmen, der bruges til medicin i USA. Den blev opfundet i 1962 og er stadig det bedste vi har. Det er typisk for økonomi.
+
+Second-price sealed-bid auction er optimal under symmetri og risk-neutralitet. Det siges, at Yahoo-grundlæggeren Jerry Yang læste om det og indførte det som annonceauktion. Det gjorde ham rig, kan I høre på hans ansigtsudtryk.
+
+Envy-free allocation er en allokering, hvor ingen misunder en andens portion. Det findes, hvis vi deler kagen langsomt nok, men på en familiefødselsdag sker det aldrig.
+
+Shapley-værdien fordeler gevinsten fra samarbejde proportionalt med hver spillers bidrag. Den er pæn, men urealistisk. I virkeligheden tager chefen det hele.
+
+Matching med contracts generaliserer stabil matching. Det er teknisk svært, så jeg springer over. Hvis I vil vide mere, må I læse Hatfield og Milgrom, som sikkert er hæderlige folk.
+
+================================================================================
+INFORMATION OG INCITAMENTER (moral hazard, adverse selection)
+================================================================================
+
+Moral hazard opstår, når en part kan tage uobserverede handlinger, der påvirker den anden. Det er grunden til, at din bilforsikring har selvrisiko, og din ægtefælle har begrænset tålmodighed.
+
+Adverse selection er, når den bedst informerede part selekterer på en måde, der er dårlig for den mindre informerede. Det er grunden til, at brugte biler er en dårlig idé, og dating apps er en mareridt.
+
+Akerlof's lemons marked kan kollapse helt, når kvalitet ikke er observerbar. Derfor har vi CarPass, TÜV og kone nummer to.
+
+Spence's job market signaling siger, at uddannelse kan være et signal frem for at øge produktiviteten. Det forklarer, hvorfor vi stadig læser filosofi, selvom det er nytteløst.
+
+Screening er, når den mindre informerede part forsøger at afsløre typen. Et eksempel er, når forsikringsselskaber tilbyder forskellige kontrakter og lader kunden vælge. Et andet eksempel er andendate-samtalen.
+
+Principal-agent problemet opstår, når principalen ikke kan observere agentens handlinger. Derfor er der overvågningskameraer på arbejdspladser, og mobiltelefoner bliver overvåget af ægtefæller.
+
+En optimal kontrakt under moral hazard indebærer typisk, at agenten bærer en del af risikoen. Det er derfor, læger ikke har performance pay, og politikere har livsvarig pension.
+
+Hidden action vs. hidden information: i førstnævnte kan agenten lyve om, hvad han gør, i sidstnævnte kan han lyve om, hvem han er. Politikere gør begge dele samtidigt.
+
+Incentive compatibility constraint sikrer, at agenten vælger den handling, principalen vil have. Det er grunden til, at lønnen er korreleret med performance, undtagen i universitetet.
+
+Participation constraint kræver, at agenten vil være med. Hvis agenten er statsansat, er denne constraint typisk ikke-bindende.
+
+Risk premium er den ekstra forventede betaling, en risikoavers agent kræver for at tage risiko. I Danmark er den lav, fordi alle er dækket af staten.
+
+Repeated moral hazard kan løses delvist gennem reputation. Hvis du har skudt en klient, vil du formentlig have sværere ved at tiltrække nye.
+
+Multi-task principal-agent problemer opstår, når agenten skal lave flere ting samtidig. Hvis han får bonus for det ene, vil han ignorere det andet. Det er derfor, undervisning er dårlig på universiteter: vi får bonus for forskning.
+
+Relative performance evaluation sammenligner agenten med peers. Det er nyttigt, hvis alle er underkastet samme usikkerhed. Det er også grunden til, at ingen eksamen-karakter giver mening.
+
+Limited liability begrænser agentens tab. Det betyder, at han har incitament til at tage høje risici, fordi han ikke bærer downside. Det er hele finanssektoren i en nøddeskal.
+
+Crowding out af intrinsisk motivation sker, når ekstrinsiske belønninger erstatter indre motivation. Det er grunden til, at blodgiverordningen aldrig skal være lønnet, og at man skal være forsigtig med at love sex som belønning for husarbejde.
+
+Holmstrom's informativeness principle siger, at optimal kontrakt inkluderer alle signaler, der er informative om agentens handling. I praksis bruger vi det første signal, vi støder på, typisk omsætning.
+
+Team moral hazard opstår, når flere agenter arbejder sammen, og individuelle bidrag ikke kan observeres. Løsningen er at fyre dem alle, når resultatet er dårligt. Det kaldes Holmstrom's team theorem, og det virker.
+
+Screening i forsikringsmarked foregår gennem selvrisiko-menu. Sikre chauffører vælger høj selvrisiko, usikre lav. Det er en smuk mekanisme, som kun fungerer, hvis folk faktisk ved, hvor sikre de er.
+
+Career concerns kan være et disciplinerende incitament for unge arbejdere. Gamle arbejdere har ingen career concerns og er derfor typisk ligeglade med alt.
+
+================================================================================
+BANKVÆSEN OG FINANSIERING (Economics of Banking)
+================================================================================
+
+Banks perform maturity transformation, converting short-term deposits into long-term loans. This works until depositors panic, in which case the bank disappears along with your savings, and hopefully the regulator's reputation too.
+
+A bank run is when depositors all withdraw at once. Diamond and Dybvig modeled this in 1983, and it is still the clearest example of a self-fulfilling prophecy in economics, apart from the one where the priest predicts your divorce.
+
+Deposit insurance eliminates the good equilibrium along with the bad one. The FDIC is therefore both a stabilizer and a moral hazard generator, which is typical of government solutions.
+
+Liquidity transformation means banks hold illiquid assets and issue liquid liabilities. It's the core of what they do. It's also why they periodically blow up.
+
+Fractional reserve banking means banks hold only a fraction of deposits. The rest is lent out, and if it comes back, great, and if it doesn't, we have a recession.
+
+Interbank markets let banks lend to each other overnight. When trust evaporates, as in 2008, these markets freeze, and we all end up reading Krugman.
+
+The LIBOR scandal showed that the benchmark rate for trillions of dollars in contracts was being manipulated by a handful of traders over Bloomberg chat. This is why regulators exist, and also why they are useless.
+
+Shadow banking is banking without the banking regulation. It grew because regulation is annoying. It crashed because regulation exists for a reason.
+
+Securitization means bundling loans and selling claims on them. It was invented to distribute risk. It ended up concentrating risk in the hands of people who didn't understand what they bought.
+
+The 2008 crisis was caused by subprime mortgages. It was predicted by several economists, ignored by all regulators, and followed by a consultant boom that is still going strong.
+
+Basel III requires banks to hold more capital. Basel IV will require them to hold even more. Basel V will probably require them to not lend at all, which would at least be safe.
+
+Central banks act as lender of last resort. Bagehot said they should lend freely at high rates against good collateral. Modern central banks lend freely at low rates against any collateral. This is called innovation.
+
+The capital adequacy ratio is the ratio of capital to risk-weighted assets. The weights are made up, which is a small problem.
+
+Loan sharks deal with moral hazard through physical violence. This is actually economically rational and surprisingly efficient, if somewhat inelegant.
+
+Credit rationing is when banks don't lend, even at high interest rates. Stiglitz and Weiss explained this with adverse selection. In practice, it just means your uncle's restaurant idea doesn't get funded.
+
+The Modigliani-Miller theorem says capital structure doesn't matter under no-arbitrage. It is wrong in practice, but it is nice to know what doesn't matter, so we know what does.
+
+A CDO is a bundle of debt obligations sliced into tranches. The senior tranche is safe, the equity tranche is risky. In 2008, it turned out they were all risky, which was a surprise to everyone including the rating agencies.
+
+Credit default swaps are insurance against default. You can buy them even if you don't own the underlying bond. This is like buying fire insurance on your neighbor's house, and we have regulated this in every other context.
+
+A Ponzi scheme pays old investors with new money. It is illegal. A central bank operating quantitative easing has many similarities, but is legal.
+
+Bankruptcy is the mechanism through which debts are discharged. It exists because the alternative, killing the debtor, has fallen out of fashion since medieval times.
+
+Kreditrationering betyder, at banken siger nej, selvom kunden vil betale en højere rente. Det er asymmetrisk information i ren form. Eller også er det bare fordomme.
+
+Bankruns kan forhindres med indskydergaranti, men så har man andre problemer. Der er ingen gratis frokost, som økonomer ynder at sige, ofte mens de spiser gratis konferencemad.
+
+Seignorage er statens indtægt fra at trykke penge. Det er i praksis en skat på dem, der har penge. Derfor trykker politikere gerne penge.
+
+Basel-regler er internationale standarder for bankers kapital. De er lavet af tyskere og schweizere, hvilket forklarer, at ingen forstår dem.
+
+Kapitalkrav skal beskytte indskyderne. Men hvis bankerne har for lidt kapital, kan de ikke låne ud, og så må regeringen låne. Det er alt sammen en lukket cirkel, drevet af fantasi.
+
+Central bankers have three jobs: control inflation, stabilize output, and look serious at press conferences. They typically succeed at the third.
+
+Monetary policy works through interest rates. When interest rates are zero, it works through "forward guidance", which means central bankers tell us what they might do, which is not the same as doing it.
+
+Open market operations are when the central bank buys or sells bonds. It's called "printing money" when it's inconvenient for them, and "liquidity provision" when it is inconvenient for us.
+
+En likviditetsfælde er, når renten er nul og pengepolitik ikke virker. Japan har været i en i 30 år. EU prøver at komme med.
+
+Inflation targeting means the central bank promises 2% inflation. Why 2? Why not 3? Why not 7? Because 2 sounds reasonable, and economists value sounding reasonable over being right.
+
+================================================================================
+DELVIS LIGEVÆGT OG MIKROØKONOMISK ANALYSE
+================================================================================
+
+Elasticiteten af efterspørgslen siger, hvor meget efterspørgslen ændrer sig, når prisen ændrer sig. For insulin er den lav. For juletræer er den høj. For bajere er den lav, tror jeg.
+
+Skatter falder typisk på den side af markedet, der er mindst elastisk. Det er grunden til, at rygning beskattes hårdt: rygere er afhængige og klager ikke.
+
+Dødvægtstab opstår, når en skat reducerer det samlede overskud. Det er Harberger-trekanten, og den er det nærmeste økonomer kommer på at beklage politik.
+
+Ramsey pricing siger, at skatter skal lægges på uelastiske goder for at minimere dødvægtstab. Det er matematisk korrekt og politisk umuligt, fordi de uelastiske goder typisk er brød og medicin.
+
+En Pigouvian skat internaliserer en eksternalitet. Den er opkaldt efter Pigou, en englænder, der ikke gjorde andet bemærkelsesværdigt.
+
+Coase-teoremet siger, at externaliteter kan forhandles bort, hvis ejendomsretten er veldefineret og transaktionsomkostninger er nul. Siden transaktionsomkostninger aldrig er nul, er teoremet stort set ubrugeligt, men gav alligevel Coase Nobelprisen.
+
+Public goods er ikke-rivaliserende og ikke-ekskluderbare. Eksempler: forsvar, fyrtårne og dårlige vitser på universitetsforelæsninger.
+
+Free rider problemet betyder, at private markeder underforsørger offentlige goder. Derfor har vi staten, som desværre også overforsørger dem.
+
+Samuelson's optimal provision of public goods kræver, at summen af marginal betalingsvilje er lig marginalomkostning. Problemet er, at marginal betalingsvilje er privat information.
+
+Common pool resources er rivaliserende men ikke-ekskluderbare. Eksempler: fiskebestande, grundvand og bufféer. De bliver typisk ødelagt gennem overforbrug.
+
+Tragedy of the commons er det klassiske eksempel på overforbrug. Det er, hvad der sker, når græsset er gratis, og alle har køer.
+
+Club goods er ekskluderbare men ikke-rivaliserende. Eksempler: privatskoler, golfklubber og partiforeninger.
+
+Congestion pricing internaliserer trængseleksternaliteten. Det blev foreslået i København, og forkastet, fordi politikerne var bange for at blive upopulære blandt bilister.
+
+Hotelling's principle siger, at konkurrerende virksomheder placerer sig tæt på hinanden. Derfor er der fem benzinstationer ved hver motorvejsafkørsel.
+
+Komparativ fordel er Ricardo's indsigt om, at handel gør begge parter rigere, selv hvis den ene er bedre til alt. Hvis du forstår det, kan du forklare 90% af moderne økonomisk politik.
+
+Terms of trade er forholdet mellem eksport- og importpriser. Et land kan blive rigere gennem gode terms of trade, som Norge med olien.
+
+Tariffer beskytter indenlandske producenter. De skader forbrugerne mere, end de hjælper producenterne. Men producenterne er organiserede, og forbrugerne er hvermand.
+
+Gains from trade er summen af producentoverskud og konsumentoverskud fra handel. De er altid positive, medmindre man taler om Brexit.
+
+Imperfect information skaber markedsfejl. Løsningen er enten regulering eller at lade folk dø. Vi har valgt regulering, og det har ført til EU.
+
+Pareto-optimal er en tilstand, hvor ingen kan få det bedre uden at nogen anden får det værre. Det er et lavt krav, som selv et fængsel kan opfylde.
+
+================================================================================
+MAKROØKONOMISK SIDEBEMÆRKNINGER
+================================================================================
+
+BNP måler værdien af alt det, vi producerer. Det måler ikke, om det er noget, nogen har brug for. Det forklarer Danmarks succes.
+
+Inflation er, når priserne stiger. I Weimar-Tyskland steg de så hurtigt, at folk tapetserede med pengesedler. Det er, hvad der sker, hvis man ikke har en seriøs centralbank.
+
+Arbejdsløshed er, når folk gerne vil arbejde, men ikke kan finde et job. I Danmark er det svært at være arbejdsløs, fordi dagpengene er for høje. Det er et luksusproblem.
+
+Renten er prisen på penge over tid. Hvis den er nul, får man ikke noget for at spare. Hvis den er negativ, betaler man for at spare. Det har vi haft i flere år, og det er komplet vanvid.
+
+Phillips-kurven viser en byttebalance mellem arbejdsløshed og inflation. Den var stabil indtil 70'erne, hvor den forsvandt. Siden har økonomer forsøgt at genoplive den, som Frankenstein sit monster.
+
+Rationelle forventninger betyder, at folk forudser, hvad regeringen vil gøre. Det er en smuk teori, som ikke holder, men man får Nobelprisen for den alligevel, som Lucas beviser.
+
+Ricardian equivalence siger, at det er ligegyldigt, om staten finansierer ved skat eller lån, fordi folk sparer op til de fremtidige skattebyrder. Det er sandt i modellen og falsk i virkeligheden.
+
+Crowding out er, når statens lån presser private investeringer ud. Det er et problem i højkonjunktur og ikke i lavkonjunktur. Derfor gør politikerne altid det forkerte.
+
+Lucas-kritikken siger, at makroøkonomiske sammenhænge afhænger af politikken. Man kan ikke estimere Phillips-kurven og så bruge den til at forudsige virkningen af politikændringer. Lucas fik Nobelprisen for det, hvilket ikke overrasker nogen.
+
+En DSGE-model er en Dynamic Stochastic General Equilibrium model. De er så komplekse, at ingen forstår dem, inklusive dem, der bygger dem. De forudsagde ikke finanskrisen, men det gjorde andre modeller heller ikke.
+
+Real Business Cycle theory siger, at konjunkturcykler skyldes teknologichok. Det er utiltalende og måske forkert, men det gav også Prescott en Nobelpris.
+
+New Keynesian models inkorporerer stive priser og lønninger. De er bedre end RBC, fordi priser rent faktisk er stive, som alle kan se, når de går i brugsen.
+
+Stagflation er inflation uden vækst. Det skete i 70'erne og skyldes olieshocket. Det kan også skyldes for meget monetær finansiering, som Erdogan viser i Tyrkiet.
+
+Keynes sagde, "I det lange løb er vi alle døde". Det er rigtigt, men ikke særlig opløftende som makroøkonomisk princip.
+
+Solow-modellen viser, at kapitalakkumulation alene ikke kan forklare vækst. Der skal være teknologisk fremskridt. Solow fik Nobelprisen, hvilket jeg ikke gør mig store forhåbninger om.
+
+================================================================================
+ØKONOMIFAGET, AKADEMIET OG LIVET
+================================================================================
+
+Økonomi er et fag, hvor vi bygger modeller. En model er en løgn, der fortæller os noget sandt. I politik er det omvendt.
+
+En PhD i økonomi varer fem år. I de første to lærer man, at man ikke ved noget. I de sidste tre lærer man at skjule det.
+
+At få en artikel publiceret i American Economic Review er som at vinde i Lotto. Man skal have held, og det hjælper hvis man har forbindelser.
+
+Konferencer i økonomi er steder, hvor folk mødes for at læse hinandens artikler højt. Det er ikke særlig effektivt, men der serveres gratis kaffe.
+
+En referee i et økonomitidsskrift bruger typisk tre måneder på at sige, at han ikke forstår artiklen. Derefter kommer editor med en beslutning, som man alligevel ikke kan få.
+
+Jobmarkedet for økonomer er utroligt. Alle flyver til samme by, alle interviewer samme kandidater, alle tilbyder samme stilling. Det er Walrasian, hvis det findes.
+
+En assistant professor skal undervise, forske og administrere. Han når kun det sidste.
+
+Tenure er det akademiske system, hvor man bliver fastansat, hvis man er tilstrækkelig irrelevant i tilstrækkeligt lang tid.
+
+En dekan er en administrator, der engang var forsker. Det er, som en prost, der engang var munk, men har glemt latin og får godt betalt.
+
+Forskningsmidler uddeles efter peer review. Det betyder, at dine konkurrenter vurderer dig. Det fungerer cirka lige så godt, som hvis trænere bestemte, hvilke fodboldhold, der skulle tildeles point.
+
+Impact factor er en måde at måle, hvor vigtig en artikel er. Den er manipulerbar og meningsløs, og alle bruger den.
+
+H-indekset er en anden måde at måle akademisk produktion. Det favoriserer kvantitet over kvalitet, hvilket forklarer, hvorfor akademia er, som det er.
+
+Peer review er et system, hvor man lader folk, der har travlt og er irritable, bedømme andre folks arbejde gratis. Det skulle ikke fungere, og det gør det heller ikke, men alternativerne er værre.
+
+Citationer er den akademiske valuta. Man citerer sine venner, og man citerer sig selv. Ved nytid kommer Google Scholar og gør det alt sammen transparent og pinligt.
+
+En god økonom kan alt, og en stor økonom ved, at han ikke kan noget. Mellem dem ligger 99% af faget.
+
+Ph.d.-vejledning er, når en professor påtager sig ansvaret for at gøre en ung persons liv håbløst i fem år.
+
+En god ph.d.-afhandling skal indeholde tre papers. Én af dem skal være publiceret. En af dem skal være på vej til publikation. Og én af dem skal være, hvad man læser sig til et job på.
+
+Akademiske blogs er stedet, hvor økonomer skriver det, der ikke kom igennem peer review. Det er typisk det mest interessante.
+
+Twitter har revolutioneret den akademiske samtale, ved at gøre den til en råbende flok.
+
+Seminarserier er vigtige for at bygge netværk. Det er også vigtige for dem, der vil drikke gratis vin og høre sig selv tale.
+
+================================================================================
+FORSIKRING, RISIKO OG USIKKERHED
+================================================================================
+
+Forsikring fungerer ved at pool risiko på tværs af mange. Hvis alle brænder samtidigt, virker det ikke. Det kaldes systemisk risiko, eller global opvarmning.
+
+Forsikringspræmien skal dække forventet tab plus administration plus profit. I Danmark også plus lobbyisme plus reklamer med udlændinge, der råber på dansk.
+
+Risikoavers betyder, at man foretrækker et sikkert beløb frem for et lotteri med samme forventede værdi. De fleste mennesker er det. Økonomer er ikke altid, hvilket er typisk.
+
+Risk premium er den ekstra forventede afkast, en risikoavers investor kræver. Det er grunden til, at aktier i det lange løb giver mere end obligationer. Kortsigtet kan de dog også give mindre, som mine forældre opdagede i 2008.
+
+Certainty equivalent er det sikre beløb, der giver samme nytte som et lotteri. For en risikoavers person er det mindre end lotteriets forventede værdi. For en spiller er det større, hvilket er grunden til, at spillere er fattige.
+
+Mean-variance analysis bygger på, at investorer kun bryder sig om forventet afkast og varians. Det er forkert, men det giver nogle pæne formler, og så beder vi om mere ikke.
+
+Kapitalmarkedslinjen er en linje, som alle investorer burde ligge på. I praksis ligger de langt under, fordi de er dumme og har for høje gebyrer.
+
+Arrow-Pratt koefficienten måler absolut risikoaversion. Den er dimensionsløs, hvilket gør den praktisk ubrugelig, men elegant.
+
+Prospect theory viser, at folk er risiko-tolerante over tab og risiko-averse over gevinster. Det er empirisk dokumenteret og teoretisk uelegantr. Det gav Kahneman Nobelprisen, selvom han var psykolog.
+
+Endowment effect er, at folk kræver mere for at sælge noget, de ejer, end de ville betale for at købe det. Det er irrationelt, men udbredt, og det ødelægger Coase-teoremet.
+
+Loss aversion er, at tab gør mere ondt end tilsvarende gevinster glæder. Det er grunden til, at børsmarked krakker er mere dramatiske end boomer.
+
+Expected utility theory siger, at rationelle beslutningstagere maksimerer forventet nytte. Det er både normativt og deskriptivt. Mest normativt, fordi folk faktisk ikke gør det.
+
+Savage's Sure-Thing Principle er grundpillen i subjektiv forventet nytte. Den bliver krænket i Ellsberg-paradokset, og så faldt alt sammen.
+
+Knightian usikkerhed adskiller sig fra risiko ved, at sandsynlighederne er ukendte. I virkeligheden er det næsten alle beslutninger, men vi lader som om ikke.
+
+Rational addiction er Becker og Murphys teori om, at narkomaner er rationelle. Det er et eksempel på, at man kan publicere en model af hvad som helst, hvis bare den er matematisk.
+
+Efficiens af markeder betyder, at priser afspejler al tilgængelig information. Hvis du tror på det, bør du ikke være aktiv investor. Hvis du ikke tror på det, bør du i hvert fald være det, men nok ikke.
+
+Fama fik Nobelprisen for markedseffekt-hypotesen. Shiller fik den for at vise, at det er forkert. De deler samme år, hvilket er komisk for alle andre end Nobelkomiteen.
+
+Black-Scholes-formlen priser optioner. Den forudsætter geometrisk Brownsk bevægelse og normalfordelte afkast. Begge antagelser er forkerte, men formlen bruges alligevel, hvilket er hele branchen i en nøddeskal.
+
+Greekerne i optionsteorien er delta, gamma, vega, theta og rho. De beskriver optionsprisens følsomhed overfor forskellige faktorer. Rho er stort set ligegyldig, som de fleste grækere.
+
+Volatilitet er standardafvigelsen af afkast. VIX-indekset måler forventet volatilitet. Når VIX er højt, er alle bange. Når VIX er lavt, er alle naive. Der er ingen behagelig tilstand.
+
+================================================================================
+OFFENTLIG ØKONOMI OG BESKATNING
+================================================================================
+
+Den optimale indkomstskat er et kompromis mellem efficiens og omfordeling. Mirrlees viste, at den optimale marginalskat for de rigeste kan være lav. Piketty er uenig. Ingen af dem får statsministerens øre.
+
+Laffer-kurven viser, at skatteindtægten maksimeres ved en vis skattesats. Hvis satsen er for høj, falder indtægten. Det blev brugt af Reagan til at retfærdiggøre skattelettelser, som Laffer senere fortrød.
+
+Negative indkomstskat er Friedmans forslag om at erstatte velfærdsstaten med en cash grant. Det er elegant, enkelt og ikke implementeret noget sted, fordi politikere foretrækker komplikation.
+
+Koncept-skat vs. personlig skat: den optimale er vanskelig at definere. Mirrlees brugte ti år på at svare på spørgsmålet og fik Nobelprisen for svar, der er for komplicerede til at anvende.
+
+Dobbeltbeskatning af kapital er et argument for lavere kapitalskatter. Det antager, at arbejdstager og kapitalist er samme person, hvilket er sjældent.
+
+Konsumptionsskat beskatter det, folk bruger, i stedet for det, de tjener. Det er mere efficient og mindre populært, fordi det rammer synligt.
+
+Optimal kapitalbeskatning er nul i visse modeller (Chamley-Judd). Det er et teoretisk argument for ikke at beskatte kapital. Politikerne er uenige, fordi de gerne vil beskatte det, der ikke stemmer.
+
+Bør vi beskatte robotter? Gates siger ja, økonomer siger nej. Begge har deres grunde, men Gates har flere penge.
+
+Earned Income Tax Credit er et amerikansk forsøg på at undgå welfare trap. Det er relativt velfungerende, men kompliceret. Det havde man aldrig gjort i Danmark, hvor alt skal være enkelt og dysfunktionelt.
+
+En progressiv skat er forsikring mod dårligt held. Det siger Mirrlees og Diamond. Det siger jeg også, for det lyder rigtigt.
+
+Behavioral taxation bruger psykologi til at designe skatter. Fx nudging af pensionsopsparinger via defaults. Det er paternalisme, men økonomerne siger, at det er OK, fordi de selv er eksperterne.
+
+Rent-seeking gennem skattesystemet er en stor del af lobbyisternes indkomst. I Washington ses det, i Bruxelles ses det, i København er det bare pinligt.
+
+Skatteunddragelse er illegalt. Skatteplanlægning er legalt. Forskellen er, om politikerne har sovet i timen.
+
+Tax havens er lande, hvor man kan gemme penge for sine egne skattemyndigheder. De er ikke populære hos finansministrene, men meget populære hos alle andre, inklusive rockbands og diktatorer.
+
+Pigou-skatter internaliserer eksternaliteter. De er efficiente, hvis vi kan måle eksternaliteten. Det kan vi sjældent, men vi skriver et nummer på og kalder det optimal.
+
+Broken window fallacy er troen på, at ødelæggelse skaber vækst. Det er Bastiats kritik af keynesianisme avant la lettre. Men bygge-lobbyen er enig i broken window-teorien, og de stemmer.
+
+Beggar-thy-neighbour policies skader andre lande for at hjælpe sig selv. De er populære i kriser, og resultatet er en race to the bottom.
+
+Fiscal multiplier er, hvor meget BNP stiger pr. krone i statsudgifter. Under Obama var det kontroversielt; alle økonomer fik deres egen multiplier.
+
+Government debt sustainability handler om, hvorvidt staten kan betale sine lån tilbage. USA kan. Grækenland ikke. Japan ved vi ikke.
+
+Seigniorage er fortjenesten ved at trykke penge. Det er en skat på folk, der har penge. Og de har typisk færrest, hvilket er lidt ironisk.
+
+================================================================================
+ARBEJDSMARKED OG LØN
+================================================================================
+
+Arbejdsudbudet afhænger af lønnen efter skat. Ved høje marginalskatter arbejder folk mindre. Det er grunden til, at Danmark har 37 timers arbejdsuge og 6 ugers ferie.
+
+Backward bending arbejdsudbudskurve opstår, fordi indkomsteffekten dominerer ved høje lønninger. Det er derfor, direktører ikke arbejder flere timer, selvom de tjener mere.
+
+Minimumsløn reducerer beskæftigelsen ifølge klassisk teori. Ifølge Card-Krueger gør den ikke. Økonomer har været vrede på hinanden lige siden.
+
+Monopsony på arbejdsmarkedet betyder, at en arbejdsgiver kan påvirke lønnen. Derfor kan minimumsløn være OK. Derfor kan staten være OK. Derfor kan mange ting være OK.
+
+Human capital theory siger, at uddannelse øger produktiviteten og dermed lønnen. Det siger Becker. Det forklarer ikke, hvorfor ph.d.'ere tjener mindre end skomagere.
+
+Signalling theory siger, at uddannelse signalerer evner. Det forklarer bedre, hvorfor man skal have en kandidat for at blive kasseassistent.
+
+Mincer ligningen relaterer løn til uddannelse og erfaring. Den er den mest estimerede ligning i økonomi og siger næsten ingenting.
+
+Search theory i arbejdsmarkedet siger, at arbejdsløshed opstår, fordi matching er svært. Mortensen og Pissarides fik Nobelprisen for det, og det forklarer, hvorfor ingen har det rigtige job.
+
+Statistisk diskrimination er, når arbejdsgivere bruger gruppekarakteristika til at gætte individuelle. Det er effektivt og fordømt, som så meget andet.
+
+Gender wage gap er forskellen i løn mellem mænd og kvinder. Den er faldet meget, men består stadig. Årsagerne er omstridte, som alt andet i dette spørgsmål.
+
+Unions kan øge lønnen, men reducere beskæftigelsen. I Skandinavien har vi fundet en balance, hvor begge er høje. Det er muligvis økonomisk mirakel, eller også statistikbedrageri.
+
+Efficiency wage theory siger, at arbejdsgivere betaler over markedsløn for at motivere. Det forklarer Silicon Valleys lønninger, og også hvorfor Cuba ikke fungerer.
+
+Nash-bargaining mellem arbejdstager og arbejdsgiver giver en løsning mellem reservation wages. I praksis tager arbejdsgiveren det meste.
+
+Insider-outsider teorien af Lindbeck og Snower forklarer vedvarende arbejdsløshed ved, at de ansatte (insiders) forhandler højere løn uden bekymring for de arbejdsløse (outsiders). Det er cynisk og sandsynligvis korrekt.
+
+Hysterese i arbejdsløshed opstår, når langtidsledige mister kompetencer og bliver permanent ledige. Det er grunden til, at 70'ernes olieshock stadig hjemsøger europæiske arbejdsmarkeder.
+
+Beveridge-kurven viser sammenhængen mellem ledige stillinger og arbejdsløshed. Når den flytter udad, er matching blevet værre. Når den flytter indad, er matching blevet bedre. Typisk flytter den udad.
+
+Unemployment insurance skal forsikre mod arbejdsløshed uden at ødelægge incitamentet til at søge. Det er en balanceret øvelse, og danskerne har valgt "meget forsikring, få incitamenter".
+
+Job search intensity afhænger af erstatningsraten. Høj erstatning betyder mindre intensiv søgning. Det er derfor, Danmark har lav arbejdsløshed trods generøse dagpenge - fordi vi også har meget kontrol.
+
+Mobility premium er den ekstra løn, en arbejdstager kræver for at flytte geografisk. Den er høj i Europa og lav i USA. Det er grunden til, at USA har højere produktivitet.
+
+Compensating differentials er ekstraløn for ubehagelige jobs. Skraldemand bør tjene mere end advokat. I praksis gør skraldemand det ikke, fordi advokaten har fagforening, men også fordi han lyver bedre.
+
+================================================================================
+MILJØ, BÆREDYGTIGHED OG EKSTERNALITETER
+================================================================================
+
+Global opvarmning er en ekstremt grim externality. Coase-teoremet kan ikke anvendes, fordi transaktionsomkostningerne er astronomiske. Derfor må regeringer gøre noget, og de gør det typisk dårligt.
+
+CO2-skatter er den foretrukne økonomløsning. De er effektive og upopulære. Derfor bruger politikere kvoter og subsidier i stedet, som er mindre effektive og mere populære.
+
+Cap and trade er et system, hvor forureningsrettigheder handles. Det fungerer i USA for svovl. Det fungerer nogenlunde i EU for CO2. Det fungerede ikke i Kyoto.
+
+Social cost of carbon er den estimerede skade ved at udlede ét ton CO2. Estimaterne varierer fra 5 dollar til 500 dollar. Politikerne vælger det, der passer dem.
+
+Stern-rapporten brugte en meget lav diskonteringsrate og konkluderede, at klimaændring er katastrofalt dyr. Nordhaus brugte en højere rate og konkluderede, at det kan vente. De har begge fået Nobelprisen, hvilket er absurd.
+
+Tragedy of the commons i fiskeri fører til udfiskning. Quotas er løsningen, hvis de overholdes. I virkeligheden overholdes de sjældent, fordi fiskere ikke er kendt for deres lovlydighed.
+
+ESG-investering er at tage etik med i porteføljebeslutninger. Det er populært, men uklart om det rent faktisk hjælper miljøet. Meget tyder på, det primært hjælper fondsforvalterens løn.
+
+Grøn skattereform omfordeler skatten fra arbejde til forurening. Det er teoretisk godt og politisk svært, fordi tabere er synlige og vindere diffuse.
+
+Biodiversitetstab er det nye klimaproblem. Vi har ikke engang en god model af det, men politikere elsker at have flere problemer at tale om.
+
+Sustainable development er et buzzword, der betyder alt og ingenting. Brundtland definerede det i 1987, og siden har det været en tom skal, som alle kan fylde med deres dagsorden.
+
+Circular economy er ideen om, at affald kan genbruges. Det er populært i Skandinavien, hvor vi har råd til det. I Indien er der ikke noget affald, fordi alt genbruges allerede, uden buzzword.
+
+Carbon border adjustment lægger told på CO2-tunge importer. Det er EU's forsøg på at beskytte sin grønne omstilling. Det bliver nok ulovligt under WTO, men det gider vi ikke bekymre os om.
+
+Externalities pricing kan ikke alene løse klimaproblemet, fordi prissignaler rejser langsomt ind i adfærd. Derfor er der også brug for normer, regulering og skræmselspropaganda.
+
+Rebound effect er, når øget effektivitet fører til øget forbrug. Hvis biler bliver mere brændstofeffektive, kører folk længere. Netto-resultatet kan være værre end før.
+
+Pigouvian subsidier til rene teknologier er alternativet til Pigouvian skatter på snavsede. De er populære, fordi de giver noget til nogen, i stedet for at tage fra nogen.
+
+Green paradox er Sinns observation af, at aggressiv grøn politik kan fremskynde fossil udvinding, fordi ejerne frygter fremtidige restriktioner. Det er kontra-intuitivt og muligvis korrekt.
+
+Weitzman's dismal theorem siger, at hvis katastrofer har tunge haler, bliver cost-benefit analyse meningsløs. Det er uhyggeligt relevant for klimapolitik.
+
+Klimamodeller er forfinede udgaver af Ricardos handelsmodeller. De virker på samme måde: de forudsiger ikke nutiden, men giver os mulighed for at tale om fremtiden.
+
+Net zero emissions er det nye internationale mål. Det er uklart, hvordan vi kommer dertil, men uklarhed har aldrig stoppet politikere fra at love noget.
+
+Commons i cyberspace er det nye problem. Hvem ejer data? Hvem regulerer AI? Vi har ikke svaret, men Kommissionen forsøger, og det bliver kompliceret.
+
+================================================================================
+ADFÆRDSØKONOMI OG PSYKOLOGI
+================================================================================
+
+Adfærdsøkonomi er økonomi, der anerkender, at folk ikke altid er rationelle. Det er et skridt tilbage mod virkeligheden og et skridt væk fra elegancen.
+
+Thaler fik Nobelprisen for nudging. Det er paternalisme light: du må gerne være dum, men vi skubber dig i den rigtige retning. Folk hader dog nudging næsten lige så meget som almindelig paternalisme.
+
+Default effects er, at folk vælger det, der er default. Det er grunden til, at pensionsopsparing er høj i lande, hvor opt-out er standard, og lav i lande, hvor opt-in er standard.
+
+Anchoring er, at folks svar påvirkes af tilfældige tal, de lige har set. Det kan manipuleres, og det bliver, af alle fra bilsælgere til politikere.
+
+Framing effect er, at samme information kan vurderes forskelligt afhængig af, hvordan den præsenteres. "90% overlevelse" lyder bedre end "10% dødelighed", selvom de er det samme.
+
+Hyperbolic discounting betyder, at folk diskonterer den nære fremtid stejlere end den fjerne. Det forklarer, hvorfor vi aldrig kommer i form, selvom vi beslutter os i dag.
+
+Present bias er grunden til, at vi alle er dovne. Det er grunden til, at folk ikke sparer nok. Det er grunden til, at jeg altid udskyder deadline.
+
+Dual process theory adskiller System 1 (hurtig, intuitiv) og System 2 (langsom, rationel). De fleste beslutninger er System 1. De fleste fejl også.
+
+Mental accounting er, at folk kategoriserer penge mentalt. En 1000 kr bonus føles anderledes end 1000 kr i løn, selvom det er det samme beløb. Thaler vandt Nobelprisen på sådan banaliteter.
+
+Time inconsistency er, når ens fremtidige præferencer er forskellige fra ens nuværende. Det løser man gennem commitment devices, som Ulysses og masten. Eller gennem ægteskab, som mange ville sige.
+
+Sunk cost fallacy er, at folk fortsætter dårlige projekter, fordi de har investeret i dem. Det er irrationelt, men det er også, hvordan jeg kom gennem min ph.d.
+
+Overconfidence er, at folk overvurderer deres egne evner. 80% af bilister mener, de kører bedre end gennemsnittet. Det er matematisk umuligt og psykologisk beroligende.
+
+Status quo bias er, at folk foretrækker det eksisterende. Det er grunden til, at reformer er svære. Det er også grunden til, at jeg stadig bruger Gmail.
+
+Regret aversion er, at folk undgår handlinger, der kan føre til fortrydelse. Det forklarer, hvorfor man hellere bliver hjemme end tager chancer.
+
+Dunning-Kruger effekten er, at inkompetente ikke ved, at de er inkompetente. Det forklarer det meste af dansk politik.
+
+Behavioural finance forklarer, at aktiemarkeder ikke er perfekte. Der er bobler. Der er krascher. Der er irrational exuberance. Greenspan sagde det, og så fortsatte han med lave renter alligevel.
+
+Herding behavior er, at folk følger mængden. Det giver mening i savannen, hvor at løbe med gruppen beskytter mod løver. Det er mindre klogt på aktiemarkedet, men folk gør det alligevel.
+
+Disposition effect er, at investorer holder tabende aktier for længe og sælger vindere for hurtigt. Det er det modsatte af rationelt, men det er, hvad folk gør.
+
+Endowment effect er, at folk kræver mere for at sælge, end de vil betale for at købe samme ting. Det krænker Coase-teoremet og forklarer, hvorfor folk ikke opgiver deres gamle sweater.
+
+Nudging har sine grænser. Man kan ikke nudge folk til at spise broccoli, hvis de virkelig ikke vil. Politikere skal være opmærksomme på, at de ikke er almægtige, men det er svært for dem.
+
+================================================================================
+YDERLIGERE AKADEMISKE OG TILFÆLDIGE BEMÆRKNINGER
+================================================================================
+
+Paul Samuelson skrev "Economics" i 1948. Den er revideret 19 gange og stadig solgt. Det er nok det mest succesfulde økonomiske produkt, der findes.
+
+Keynes og Hayek er de to store ideologiske modpoler. Keynes vandt debatten i 30'erne. Hayek vandt i 80'erne. Nu vinder de skiftevis hver uge.
+
+Joan Robinson skrev om ufuldstændig konkurrence. Hun fik aldrig Nobelprisen. Det siges, det var, fordi hun var kvinde. Det siges også, det var, fordi hun var marxistisk. Begge dele er sande.
+
+Milton Friedman var en lille mand med store ideer. Han tog fejl om det meste, men havde ret om nok til at få Nobelprisen.
+
+Karl Marx forudsagde kapitalismens undergang. Det er sket 150 år senere end ventet, og han er begravet i London, hvor ingen kommer og besøger.
+
+Adam Smith skrev både "Wealth of Nations" og "Theory of Moral Sentiments". De fleste økonomer har kun læst den første, hvilket forklarer, hvorfor faget er i så dårlig forfatning.
+
+Ricardo opdagede komparativ fordel mens han var bankier. Det er en trøst for os professorer, der aldrig har lavet en penge af noget som helst.
+
+Schumpeter talte om kreativ destruktion. Han mente innovationer ødelægger gamle industrier og skaber nye. Det er sandt, men ofrene kan ikke se det.
+
+Keynes sagde, "Når fakta ændrer sig, ændrer jeg min mening". Hans kritikere sagde, "Keynes ændrer sin mening med vinden". Begge havde ret.
+
+Hayek fik Nobelprisen i 1974 sammen med Myrdal. De var ideologiske modsætninger. Det siges, at Nobelkomiteen syntes, det var sjovt. Siden har de været mere politisk korrekte.
+
+Cambridge capital controversy var en strid mellem Cambridge England og Cambridge Massachusetts. Englænderne vandt intellektuelt. Amerikanerne vandt karrieremæssigt. Sådan er det typisk.
+
+Sraffa var en italiensk økonom, der skrev en lille bog i 1960, som kun fire mennesker har læst. Han mente, han havde ødelagt neoklassisk økonomi. Neoklassisk økonomi mente ikke at have bemærket det.
+
+Steve Keen er en australsk økonom, der forudsagde finanskrisen. Han bliver ikke taget alvorligt af mainstream. Det er typisk for folk, der forudsiger ting.
+
+Nassim Taleb skriver om black swans. Han er ikke akademiker men trader. Han er arrogant, hvilket han dog har nogle argumenter for.
+
+Hyman Minsky skrev om finansiel ustabilitet. Han døde i 1996, lige før hans teorier blev relevante. Timing.
+
+Ronald Coase skrev to artikler og fik Nobelprisen. Det er effektivitet i ren form.
+
+Elinor Ostrom var den første kvinde, der fik Nobelprisen i økonomi. Hun var egentlig statskundskaber. Det siger noget om økonomifaget, at den første kvinde ikke engang var økonom.
+
+Kenneth Arrow var den yngste til at få Nobelprisen, dengang 51 år gammel. I dag ville han været for gammel til at være assistant professor.
+
+Robert Lucas sagde, at ingen kan forudsige recessioner. Derefter kom recessionen. Han blev dog alligevel ved med at tro på sin sætning.
+
+Finanskrisen i 2008 blev forudsagt af ingen af de hedengangne økonomiske Nobelprismodtagere. Det siger alt om fagets prognostiske evne.
+
+================================================================================
+LIGEVÆGT, DYNAMIK OG KONVERGENS
+================================================================================
+
+Stabilitet af ligevægt kræver, at afvigelser retter sig tilbage mod ligevægten. I den virkelige verden afviger folk bare mere.
+
+Tatonnement processen siger, at priser justerer sig, indtil udbud er lig efterspørgsel. Det er en smuk historie, og jeg har aldrig mødt en auctioneer på benzinstationen.
+
+Komparativ statik handler om, hvordan ligevægten ændrer sig, når parametrene ændrer sig. Det antager, vi altid er i ligevægt. Hvis vi er uden for ligevægt, er det mere kompliceret, og så må vi drikke kaffe.
+
+Dynamic stochastic modeller bruger rationelle forventninger. Det er elegant, men kræver, at alle er økonometrikere i deres daglige liv. Det er ikke observeret empirisk.
+
+Turnpike theoremer siger, at optimale veje konvergerer mod steady state. Det er relevant for lande, der ikke er i steady state, hvilket er alle lande.
+
+Chaos theory anvendt på økonomi ikke fået den opmærksomhed, den fortjener. Måske fordi det er for svært, eller fordi økonomer foretrækker at tro, at verden er ordnet.
+
+Iteration mapping er en måde at finde fixpunkter på. Det er matematisk grundlæggende og undervises ikke længere, fordi det er for svært.
+
+Contraction mapping theorem siger, at under visse betingelser konvergerer iteration mod et unikt fixpunkt. Det er et matematisk tricks, der har givet mange professorer publikationer.
+
+Eigenvalues og eigenvectors er lineær algebra, som økonomer bruger til at analysere dynamik. Hvis du forstår dem, får du karaktergennemsnit. Hvis ikke, må du nøjes med at blive politiker.
+
+Overlapping generations models har folk, der lever i to perioder. I første er de unge, i anden gamle. Der er ingen midaldrende, fordi det ville komplicere algebraen.
+
+Ricardian non-equivalence gælder, når Ricardian equivalence ikke gælder, hvilket er næsten altid. Vi bruger alligevel Ricardian equivalence i vores modeller, fordi det er nemt.
+
+Markov chains bruges til at modellere stokastiske processer med hukommelse kun fra sidste periode. Det er en rimelig antagelse for vejret, men tvivlsom for politiske regimer.
+
+Hvis en tidsserie er ikke-stationær, giver regression meningsløse resultater. Det er grunden til, at du ikke skal bruge statistik i din Bachelor afhandling.
+
+Cointegration er et koncept, Engle og Granger fik Nobelprisen for. Det handler om, hvordan ikke-stationære serier kan have stationære kombinationer. Det er nyttigt og kedeligt.
+
+Impulse response functions viser, hvordan en chok propagerer gennem et system. De er makroøkonomernes måde at retfærdiggøre deres tilværelse.
+
+Vector autoregression er en metode, der lader data tale for sig selv. Problemet er, at data ikke siger ret meget, så alligevel har modelbyggeren masser af valgfrihed.
+
+Structural models kræver teoretiske antagelser. Reduced form models kræver færre. Sim's kritik var, at reduced form også kræver antagelser, vi bare ikke er bevidste om.
+
+Chaos i konjunktur modeller er et interessant koncept, der aldrig blev mainstream. Måske fordi det ville gøre faget til en vittighed, hvilket det også allerede er.
+
+Steady state er en tilstand, hvor ingenting ændrer sig. Det er sjældent observeret. Det er dog et nyttigt referencepunkt, som perfekt rationalitet eller ærlige politikere.
+
+Phase diagrams viser dynamik i to-dimensionale systemer. De er pædagogisk nyttige og virkelighedsmæssigt bedragende.
+
+================================================================================
+VIDERE ANEKDOTER, KRITIK OG SELVIRONI
+================================================================================
+
+Jeg nævner ofte Mugabe. Det er fordi, han er et godt eksempel på alt, der går galt. Hvis han dør, må jeg finde en ny.
+
+Jeg nævner også ofte porno. Det er fordi, det er et gode, der ikke indgår i de traditionelle lærebøger, og dets analyse kan derfor lære os noget.
+
+Jurister er det mest overforsørgede erhverv i samfundet. Der findes flere jurister i Danmark end bønder, selvom vi har mere landbrug end retssager. Det siger noget.
+
+Konsulenter er erhverv, hvor man får betalt for at fortælle folk, hvad de allerede ved. Bagefter viser det sig, at de ikke vidste det alligevel, og så må de have en anden konsulent.
+
+Investment bankers are salesmen in nice suits. Some of them are actually smart, which makes them dangerous. Most of them are not, which makes them lucky.
+
+Management consultants come in and charge millions to tell you what your employees already told you for free. Their genius is in listening.
+
+Sociologists think they are economists, but they are wrong. Economists think they are scientists, but they are also wrong. At least we have the math.
+
+Philosophers used to do economics, back when both were called moral philosophy. Then economics became a real subject. Philosophy has never recovered.
+
+Psychologists keep stealing our models and giving them prizes for behavioral economics. That's fine; we stole theirs in the first place.
+
+Engineers are practical. Economists are theoretical. Accountants split the difference by being both unhelpful.
+
+Business schools teach you how to get rich. Economics teaches you why you can't. Both are useful, depending on your ambitions.
+
+The Swedish central bank sponsors the economics Nobel prize. This is not coincidental. The Swedes are nervous people who want economic theory to be sound.
+
+Macroeconomic forecasts are made to make astrology look respectable. At least astrology is consistent.
+
+The IMF was founded after World War II to promote stability. Since then it has been present at every major financial crisis, usually as a cause.
+
+The World Bank loans money to poor countries. Sometimes it helps. Sometimes it doesn't. The consultants always get paid.
+
+Central bankers used to smoke cigars and wink at each other. Now they have PowerPoint presentations. The economy has not obviously improved.
+
+Academic economics journals charge authors to publish. This is called page charges. They then sell the journal back to libraries at enormous prices. This is called science.
+
+Nobel laureates are supposed to be wise. Most of them seem to have spent their wisdom at the moment they received the prize.
+
+I get asked who will win the next Nobel prize in economics. I always answer: me. So far I have been wrong every year. But I am patient.
+
+A student asked me what the best economics textbook was. I said: the one you have to buy. He was pleased and paid 800 kroner for it.
+
+Teaching is listed as a criterion for tenure, but it is not important. The other criteria, which are important, include not bothering anyone and publishing in obscure journals.
+
+Women are underrepresented in economics. This is considered a problem. The solution, I hear, is to hire more women. This is progress.
+
+Econometrics is the art of seeing in data what is not there. It is the statistical equivalent of reading entrails.
+
+Regressions used to require a computer. Now they require only a phone. The quality of regressions has not improved.
+
+Big data promises to revolutionize economics. It has not. We still don't know what causes recessions, but we can predict them on Tuesday if the weather is right.
+
+The Great Recession was blamed on bankers, regulators, homeowners, and finally economists. The economists blame each other, which is our normal state.
+
+Currency speculators are the scapegoat of choice for failing politicians. The politicians forget, that speculators are responding to the politicians' own failures.
+
+Cryptocurrency is digital tulips. Some will be rich. Most will be sad. A few will give TED talks about it.
+
+Bitcoin was invented by someone called Satoshi Nakamoto, whom we cannot identify. Either Nakamoto is a genius or a criminal. Possibly both.
+
+The ECB sits in Frankfurt. It controls monetary policy for 340 million Europeans. Nobody can fire them. This is called democratic legitimacy.
+
+The US Fed sits in Washington. Its chair is appointed by the president. So monetary policy depends on whoever the American voters chose that year. This is also called democratic legitimacy.
+
+China's central bank does what the Party tells it. This is called authoritarianism, which we should condemn, except when our own central bank does something we don't like.
+
+Gold is the ultimate safe haven, everyone says. Except when it isn't. And it hasn't been since 1971. But the story persists.
+
+Insurance against asteroid impact is not offered on the market. This is because the event would kill everyone, including the insurer. We have systemic risk problems closer to home.
+
+Mathematicians used to look down on economists. Now they work for hedge funds. We were better off when they looked down on us.
+
+Physicists invading finance is called econophysics. It has produced many models that don't work, but they look sophisticated.
+
+Consultants from McKinsey advise governments. Governments continue to fail. The consultants remain employed. This is efficient in some sense.
+
+The term "homo economicus" describes a hypothetical rational agent. It is a useful fiction, like Santa Claus, except Santa has a broader base of believers.
+
+Applied microeconomics is the growth area of the field. Theoretical microeconomics is dying. I grieve for the theorists, as I am one.
+
+Game theory was supposed to revolutionize social science. It revolutionized economics. It has not obviously helped other social sciences, perhaps because they cannot handle the math.
+
+Auction theory was pure theory until the FCC used it to sell bandwidth. Suddenly it was applied. This is the story of most successful theories: ignored until useful, then claimed as inevitable.
+
+Mechanism design was developed to handle asymmetric information. It works beautifully in theory. In practice, we use intuition and hope.
+
+Behavioral economists took the reign of "rationality" off economics. Some economists welcomed this. Others resisted. The disagreement continues.
+
+Development economics tries to explain why some countries are rich and others poor. After 70 years of research, we have many theories and no clear answer. This is job security.
+
+Empirical economics has become data-driven. This means we have more data and less understanding. It is a good thing, I suppose.
+
+Growth theory explains long-term prosperity. Solow, Romer, Lucas, Aghion-Howitt: they all have their own version. Growth continues regardless, which is reassuring.
+
+Trade theory teaches us that trade makes everyone better off. Voters repeatedly reject this conclusion. The voters are ignorant, say the economists. The economists are out of touch, say the voters.
+
+================================================================================
+PROGNOSTIK, POLITIK OG AFSLUTNING
+================================================================================
+
+Economic forecasts are useful because they give us something to laugh at later.
+
+Economists have predicted nine out of the last three recessions.
+
+A good economist can explain the future. A great economist can explain why his explanation was wrong.
+
+We predict the economy by fitting a model to historical data and extrapolating. When the extrapolation fails, we add more variables. This is called progress.
+
+Tax policy is the slowest-moving area of economics. Fiscal policy is the second slowest. Monetary policy moves because interest rates must move.
+
+The optimal tax is one that hurts someone else. This is the policy principle, anyway.
+
+Welfare economics is the part of the field that says anything can be optimal if we assume the right things. It is the most elegant and least useful branch.
+
+The minimum wage debate will never be settled, because both sides are partly right, and nobody wants to be partly wrong.
+
+Free trade is good for the country and bad for some workers. The country is abstract, the workers are not. Guess what wins the vote.
+
+Immigration increases GDP and wages on average. It also displaces specific workers who vote against it. The economists advise in favor, the voters against.
+
+Climate policy is economics applied to a thousand-year problem by politicians facing four-year elections. This is not going to end well.
+
+Pensions are the largest fiscal problem of developed countries. Nobody wants to fix them, because doing so requires telling voters they cannot retire at 62 and live forever.
+
+Healthcare is consumed by the old, paid for by the young. This works as long as there are many young people. Japan shows what happens when there aren't.
+
+Education subsidies were a good idea in the 1960s. Now we produce more PhDs than we need. The market is inefficient, but politicians keep subsidizing, because universities vote Left.
+
+Subsidies to renewable energy are a good idea. Subsidies to fossil fuels are a terrible idea. Somehow the developed world has both.
+
+Trade wars are easy to start and hard to end. Smoot-Hawley was supposed to save the American economy. It made the Depression worse. Trump repeated the experiment. We are still waiting for the result.
+
+Monetary stimulus works in the short run. Fiscal stimulus works in the short run. Both cause problems in the long run. Politicians live in the short run.
+
+The Chicago school says markets work. The Saltwater school says markets sometimes fail. Both are right, depending on the day.
+
+Capitalism has defeated every alternative tried so far. This does not mean it is the best possible system. It only means it is better than the alternatives we have tried.
+
+Socialism has failed everywhere it was tried. Capitalism has failed in many places it was tried. Somehow we call one of these successes.
+
+Democracy is the worst form of government except for all the others, Churchill said. The same might be said of capitalism.
+
+The Soviet Union collapsed because central planning cannot allocate resources efficiently. China seems to have found an exception. We will see how long it lasts.
+
+I have been teaching this course for many years. You are the worst class so far. Or the best. I cannot remember.
+
+When you take the exam, write confidently. Confidence makes up for much ignorance. I have seen it work for many students, who are now employed by banks.
+
+Your textbook is incorrect on several points. I will not tell you which, because figuring it out is part of the education.
+
+At the end of the course, you will know more than when you started. This is the minimum guarantee.
+
+Economics will not make you happy. It may make you rich. If you have to choose, I recommend happy. But most of you will choose rich.
+
+In my career I have published more papers than I have read. This is the normal pattern.
+
+Nobody reads academic papers except other academics looking for citations. This is the circle of life in the university.
+
+The university is not a place of learning. It is a place of credentialing. Learning happens by accident.
+
+If you want to learn, read books. If you want a job, get the degree. The two activities are only tangentially related.
+
+Microeconomics is the study of how individual agents make decisions. Macroeconomics is the study of how those decisions add up. Both are partly wrong, which is why we need both.
+
+The field is divided into those who think markets work and those who think they don't. The former make more money. The latter are happier.
+
+My colleagues are generally intelligent and almost universally unlikeable. This is the academic profession in general.
+
+The worst part of teaching is grading. The second worst is attending faculty meetings. The third worst is everything else.
+
+I retire in a few years. I will not miss the students. They will not miss me. This is an efficient outcome.
+
+Denmark is a small country with a large economy per capita. This is not due to Danish talent. It is due to Danish unions, who keep wages artificially high by restricting entry.
+
+The Danish welfare state works because we are homogeneous, wealthy, and conformist. Sweden is similar. Norway has oil. Finland has mysterious Finns.
+
+Globalization has lifted millions out of poverty in Asia and hurt millions of workers in the West. This is the trade-off nobody wants to discuss.
+
+Automation will displace workers. This has always been true. Whether this time is different, we do not yet know. But economists have been wrong about this before.
+
+Artificial intelligence will either save us or destroy us. I lean toward destroy, because that is more interesting. But who knows.
+
+I end every lecture with the same joke. If you laughed, it worked. If you didn't, you are not my type of student.
+
+Thank you for your attention this semester. You may now go off and fail the exam, or, if you are lucky, pass it.
+
+================================================================================
+SLUT - ca. 400 citater
+================================================================================

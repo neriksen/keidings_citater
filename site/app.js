@@ -1,15 +1,83 @@
 (() => {
   const quoteEl = document.getElementById("quote-text");
   const sourceEl = document.getElementById("quote-source");
-  const btn = document.getElementById("next-btn");
+  const nextBtn = document.getElementById("next-btn");
+  const modeButtons = Array.from(document.querySelectorAll(".mode-btn"));
 
-  let quotes = [];
-  let lastIdx = -1;
+  const STORAGE_KEY = "citater-mode";
+  const VALID_MODES = new Set(["both", "original", "ai"]);
+  const DEFAULT_MODE = "both";
 
   const SOURCE_LABEL = {
     "original": "autentisk",
     "ai": "ai-genereret",
   };
+
+  let quotes = [];
+  let lastQuote = null;
+  let mode = readMode();
+
+  function readMode() {
+    const stored = localStorage.getItem(STORAGE_KEY);
+    return VALID_MODES.has(stored) ? stored : DEFAULT_MODE;
+  }
+
+  function getFilteredPool() {
+    if (mode === "both") return quotes;
+    return quotes.filter((q) => q.source === mode);
+  }
+
+  function pickRandomQuote(pool) {
+    if (pool.length === 0) return null;
+    if (pool.length === 1) return pool[0];
+    let q;
+    do {
+      q = pool[Math.floor(Math.random() * pool.length)];
+    } while (q === lastQuote);
+    return q;
+  }
+
+  function renderQuote(q) {
+    if (q === null) {
+      quoteEl.textContent = "Ingen citater i denne kategori.";
+      sourceEl.textContent = "";
+      return;
+    }
+    quoteEl.textContent = q.text;
+    sourceEl.textContent = SOURCE_LABEL[q.source] || q.source;
+  }
+
+  function showQuote(immediate = false) {
+    const pool = getFilteredPool();
+    const q = pickRandomQuote(pool);
+    lastQuote = q;
+
+    if (immediate || q === null) {
+      renderQuote(q);
+      quoteEl.classList.remove("fading");
+      return;
+    }
+
+    quoteEl.classList.add("fading");
+    setTimeout(() => {
+      renderQuote(q);
+      quoteEl.classList.remove("fading");
+    }, 180);
+  }
+
+  function syncModeButtons() {
+    for (const btn of modeButtons) {
+      btn.setAttribute("aria-checked", btn.dataset.mode === mode ? "true" : "false");
+    }
+  }
+
+  function setMode(newMode) {
+    if (!VALID_MODES.has(newMode) || newMode === mode) return;
+    mode = newMode;
+    localStorage.setItem(STORAGE_KEY, mode);
+    syncModeButtons();
+    showQuote(false);
+  }
 
   async function loadQuotes() {
     try {
@@ -19,43 +87,17 @@
     } catch (err) {
       console.error("Kunne ikke indlæse citater:", err);
       quoteEl.textContent = "Kunne ikke indlæse citater. Prøv at genindlæse siden.";
-      btn.disabled = true;
+      nextBtn.disabled = true;
     }
   }
 
-  function pickRandomIndex() {
-    if (quotes.length <= 1) return 0;
-    let idx;
-    do {
-      idx = Math.floor(Math.random() * quotes.length);
-    } while (idx === lastIdx);
-    return idx;
+  // Wire up controls
+  nextBtn.addEventListener("click", () => showQuote(false));
+
+  for (const btn of modeButtons) {
+    btn.addEventListener("click", () => setMode(btn.dataset.mode));
   }
 
-  function showQuote(immediate = false) {
-    if (quotes.length === 0) return;
-
-    const idx = pickRandomIndex();
-    lastIdx = idx;
-    const q = quotes[idx];
-
-    const render = () => {
-      quoteEl.textContent = q.text;
-      sourceEl.textContent = SOURCE_LABEL[q.source] || q.source;
-      quoteEl.classList.remove("fading");
-    };
-
-    if (immediate) {
-      render();
-    } else {
-      quoteEl.classList.add("fading");
-      setTimeout(render, 180);
-    }
-  }
-
-  btn.addEventListener("click", () => showQuote(false));
-
-  // Tastatur-genvej: mellemrum eller pil-højre = næste citat
   document.addEventListener("keydown", (e) => {
     if (e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA") return;
     if (e.key === " " || e.key === "ArrowRight" || e.key === "Enter") {
@@ -64,6 +106,8 @@
     }
   });
 
+  // Init
+  syncModeButtons();
   (async () => {
     await loadQuotes();
     if (quotes.length > 0) showQuote(true);

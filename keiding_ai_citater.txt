@@ -1,5 +1,5 @@
 ## AI-genererede citater i mikroøkonomi-forelæser-stil
-## 100% dansk - kureret batch
+## 100% dansk - kureret og skarpet batch
 
 ================================================================================
 FORBRUGERTEORI OG NYTTE
@@ -7,35 +7,35 @@ FORBRUGERTEORI OG NYTTE
 
 Nytten af et ekstra barn er konkavt aftagende. Det ved I, hvis I har prøvet det fjerde, der typisk er en fejl.
 
-Revealed preference: hvis forbrugeren vælger x frem for y, foretrækker han x. Medmindre han er gift, fynbo eller fuld. I så fald ved ingen hvad han foretrækker, heller ikke ham selv.
+Revealed preference: hvis forbrugeren vælger x frem for y, foretrækker han x. Medmindre han er gift, fynbo eller fuld. I de tre tilfælde er han ikke længere en agent, men en patient.
 
-En Giffen-gode har positiv prisefekt. Det klassiske eksempel er kartofler under den irske hungersnød. Det moderne eksempel er lejligheder i København, som bliver dyrere hver gang nogen får flere penge at bruge.
+En Giffen-gode har positiv priseffekt. Klassisk eksempel: kartofler under den irske hungersnød. Moderne eksempel: københavnerlejligheder, som bliver dyrere hver gang nogen får råd til mindre.
 
-Engelkurven viser, hvordan forbruget ændrer sig med indkomsten. På et tidspunkt holder man op med at købe Tuborg og begynder at købe Chablis. Der er ingen nyttegevinst, men der er betydelig statusgevinst, og det er samme i velfærdsfunktionen.
+Engel-kurven viser, hvordan forbruget ændrer sig med indkomsten. På et tidspunkt holder man op med at drikke Tuborg og begynder at drikke Chablis. Ingen nyttegevinst, betydelig statusgevinst. Ved næste indkomstniveau køber man kunst, man ikke forstår, og en sommerresidens i Provence, hvor man keder sig.
 
-Intertemporal choice: forbrugeren afvejer nutidig nytte mod fremtidig. Alkoholikere har høj diskonteringsrate, hvilket er grunden til de er alkoholikere. Det er også grunden til, at politikere altid beslutter, hvad næste regering skal håndtere.
+Intertemporal choice: forbrugeren afvejer nutidig nytte mod fremtidig. Alkoholikere har høj diskonteringsrate, hvilket er grunden til, de er alkoholikere. Det er også grunden til, at politikere altid beslutter, hvad næste regering skal håndtere.
 
-Consumer surplus er forskellen mellem betalingsvilje og pris. For dem der køber prostitution er den typisk negativ, specielt bagefter.
+Consumer surplus er forskellen mellem betalingsvilje og pris. For dem, der køber prostitution, er den typisk negativ, specielt bagefter.
 
 Homothetic preferences: forbrugeren køber samme proportioner uanset indkomst. Det ses sjældent hos nyrige jyder, der typisk køber en Rolex og en blondine samtidig og efterlader konen i Grindsted.
 
-En bedstefar der dør og efterlader formuen til børnebørnene, har positiv bequest motive. En bedstefar der bruger det hele på callgirls og racerbiler, har mere rationelle præferencer.
+En bedstefar, der dør og efterlader formuen til børnebørnene, har positiv bequest motive. En bedstefar, der bruger det hele på callgirls og racerbiler, har mere rationelle præferencer.
 
 Hvis alle goder er normale, stiger forbruget af alt, når indkomsten stiger. Undtagelser er: sæbebobler, kontanthjælpsmodtagere og Mette Frederiksens popularitet.
 
-Substitution effect: stiger prisen på oksekød, spiser man svinekød i stedet. Stiger prisen på svinekød, spiser man polsk fremmedarbejderkost. Stiger prisen på det, spiser man ingenting og dør ung.
+Substitution effect: stiger prisen på oksekød, spiser man svinekød. Stiger prisen på svinekød, spiser man polsk fremmedarbejderkost. Stiger prisen på det, spiser man ingenting og dør ung.
 
 ================================================================================
 PRODUKTION OG OMKOSTNINGER
 ================================================================================
 
-Leontief-teknologien siger: for hver operation skal der bruges 1 dansk kirurg, 2 polske sygeplejersker og 4 ukrainske rengøringsdamer. Fjern én del og hospitalet kollapser.
+Leontief-teknologien siger: for hver operation skal der bruges 1 dansk kirurg, 2 polske sygeplejersker og 4 ukrainske rengøringsdamer. Fjern kirurgen, og patienten dør langsomt og kompliceret. Fjern rengøringsdamerne, og patienten dør hurtigt af stafylokokker. Begge måder er dyre for staten.
 
-Cobb-Douglas produktionsfunktion f(K,L) = K^α · L^β er elegant og urealistisk. Den passer kun i lærebøger og i tyske virksomheder, hvor alle følger reglerne og ingen drikker bajere i frokostpausen.
+Cobb-Douglas produktionsfunktion f(K,L) = K^α · L^β er elegant og urealistisk. Den passer kun i lærebøger og i tyske virksomheder, hvor alle følger reglerne, og ingen drikker bajere i frokostpausen.
 
-Short-run omkostningsminimering er, når man fyrer de overflødige. Long-run er, når man også fyrer dem man ikke kan undvære. Very-long-run er, når man sidder i kælderen og ikke kan betale huslejen.
+Short-run omkostningsminimering er, når man fyrer de overflødige. Long-run er, når man også fyrer dem, man ikke kan undvære. Very-long-run er, når man sidder i kælderen og ikke kan betale huslejen.
 
-Outsourcing af kundeservice til Indien er klassisk komparativ fordel. Vi sparer løn, indere får løn, kulierne lærer engelsk. Alle vinder, undtagen kunden der ringer på en tirsdag og skal have forklaret, hvorfor hans printer ikke virker, af en mand i Hyderabad.
+Outsourcing af kundeservice til Indien er klassisk komparativ fordel. Vi sparer løn, indere får løn, kulierne lærer engelsk. Alle vinder, undtagen kunden, der ringer på en tirsdag og skal have forklaret, hvorfor hans printer ikke virker, af en mand i Hyderabad.
 
 Marginalproduktiviteten på universitetet er aftagende og krydser nul omkring den femte administrative medarbejder. Herefter er enhver ekstra ansat et bidrag til CO2-udledningen og intet andet.
 
@@ -43,9 +43,9 @@ Returns to scale i porno-industrien er klart aftagende efter en vis størrelse. 
 
 Diseconomies of scale opstår typisk, når en virksomhed får for mange jyder i ledelsen. Københavnske virksomheder har nået denne tærskel først, jyske virksomheder senere, fordi de altid er bagefter.
 
-Economies of scope: det er billigere at producere cigaretter og kræftmedicin samtidig. Philip Morris har demonstreret dette elegant i 100 år.
+Economies of scope: det er billigere at producere cigaretter og kræftmedicin samtidig. Philip Morris har demonstreret det elegant i 100 år.
 
-Kapitalakkumulation på lang sigt forudsætter, at kapitalen ikke forbruges hurtigere end den produceres. Det er Solow-modellen. I Grækenland holder antagelsen ikke, og det forklarer, hvorfor de er, hvor de er.
+Solow-modellen siger, at vækst kræver kapitalakkumulation hurtigere end forbrug. Grækenland producerer mest sol og diskuterer mest under den. Det forklarer både den vedholdende fattigdom og den robuste turistsektor.
 
 En produktionsfunktion med konstant skalaafkast: fordobles input, fordobles output. Det holder indtil 30 medarbejdere. Herefter stiger antallet af møder kvadratisk, og output falder.
 
@@ -55,21 +55,21 @@ SPILTEORI
 
 Nash-ligevægt i et samfund af fæhoveder er, at ingen gør noget. Det er også den nuværende tilstand i Folketinget og på de fleste universitetsfakulteter.
 
-Prisoners' Dilemma med Hells Angels som spillere konvergerer mod samarbejde gennem trigger-strategier, som i praksis består af baseballbats og fysisk afstraffelse. Det forklarer deres stabilitet som organisation.
+Prisoners' Dilemma med Hells Angels som spillere: trigger-strategien er et baseballbat. Konvergens mod samarbejde er hurtig og uigenkaldelig.
 
-Trigger-strategier er ofte anvendt på amerikanske colleges. Det er Keidings klassiske observation, og den er bedre end nogen lærebog om gentagne spil.
+Trigger-strategier i gentagne spil: hvis modparten afviger, straffer du. På amerikanske colleges anvendes de ofte — afvigelsen er typisk noget med at sige det forkerte i kantinen, og straffen er semi-automatic.
 
 Stackelberg-leadership kræver commitment. Hvis du truer med at skyde og ikke skyder, har du ingen troværdighed. Det er grunden til, at Obama ikke kunne få noget gennem Senatet.
 
 Folk Theorem garanterer, at næsten alt kan være ligevægt i gentagne spil. Det er nyttigt, hvis man skal forklare, hvorfor Sydeuropa stadig findes, men det er teoretisk bankerot.
 
-Eiffeltårnsspillet: en mand truer med at springe, medmindre du betaler 100 euro. Du sparer pengene, men må leve med en selvmord på samvittigheden. Økonomer ville give pengene. Buddhistmunke ville springe med. Jurister ville vurdere erstatningskravet.
+Eiffeltårnsspillet: en mand truer med at springe, medmindre du betaler 100 euro. Du sparer pengene, men må leve med et selvmord på samvittigheden. Økonomer ville give pengene. Buddhistmunke ville springe med. Jurister ville vurdere erstatningskravet.
 
-Cheap talk er informativ, hvis interesser er alignede. Det er grunden til, at det ikke er informativt i ægteskaber. Og i salgsmøder. Og i klimakonferencer.
+Cheap talk er informativ, hvis interesser er alignede. Det er grunden til, at det aldrig er informativt i salgsmøder, klimakonferencer og bryllupstaler.
 
 Minmax-strategien er, når du minimerer dit værst mulige udfald. Det er rationelt i en verden med skoleskyderier, atomvåben og ex-koner. I alle tre tilfælde er det bedst at antage det værste.
 
-Cournot-konkurrence mellem to virksomheder: hver vælger sin produktion givet den andens. Det forklarer, hvorfor Carlsberg og Tuborg producerer præcis lige mange bajere. Matematisk nødvendigt.
+Cournot-konkurrence: hver virksomhed vælger sin produktion givet den andens. Det forklarer, hvorfor Carlsberg og Tuborg producerer præcis lige mange bajere — og hvorfor de smager helt ens, trods 100 års reklamekampagner om det modsatte.
 
 Bertrand-konkurrence fører til prissætning ved marginalomkostning. Det forklarer, hvorfor de to benzinstationer ved motorvejsafkørslen har samme pris. De er i desperat ligevægt og hader hinanden.
 
@@ -77,19 +77,19 @@ Bertrand-konkurrence fører til prissætning ved marginalomkostning. Det forklar
 MEKANISMEDESIGN OG AUKTIONER
 ================================================================================
 
-VCG-mekanismens bøder skal brændes, ellers virker den ikke. De kan også bruges til projekter, som ingen får glæde af - Lolland-broen, Olafur Eliasson-skulpturer, eller nye Christiania-tilbygninger. Alt sammen opfylder kravet.
+VCG-mekanismens bøder skal brændes, ellers virker den ikke. De kan også bruges til projekter, ingen får glæde af — Lolland-broen, Olafur Eliasson-skulpturer eller nye Christiania-tilbygninger. Alt sammen opfylder kravet.
 
 Revelation Principle siger, at man kan få folk til at sige sandheden med den rette mekanisme. Skat har arbejdet på det i 150 år. De er stadig ikke i mål.
 
-Revenue equivalence theorem holder kun under idealbetingelser: risk-neutrale byderne, symmetri, og ingen samspil. I virkeligheden tjener Christie's mere end Sotheby's på samme kunstværk, fordi Christie's har bedre callgirls til efterfesten.
+Revenue equivalence holder kun under idealbetingelser: risikoneutrale bydere, symmetri, ingen samspil. I virkeligheden tjener Christie's mere end Sotheby's på samme kunstværk, fordi Christie's har bedre callgirls til efterfesten.
 
-Second-price auction: den højeste byder vinder og betaler den næsthøjeste pris. Det er incentive compatible, men kun hvis byderne ved, hvad der foregår. De fleste byderne på eBay gør ikke det.
+Second-price auction: højeste byder vinder og betaler den næsthøjeste pris. Det er incentive compatible, men kun hvis byderne ved, hvad de gør. På eBay er den antagelse falsk.
 
-Matching theory: Gale-Shapley algoritmen matcher medicinstuderende med hospitaler. I Japan bruger de samme algoritme til ægteskaber. Det er mere efficient end Tinder og mindre underholdende.
+Matching theory: Gale-Shapley algoritmen matcher medicinstuderende med hospitaler. I Japan bruger de samme algoritme til ægteskaber. Mere efficient end Tinder, mindre underholdende.
 
-Stable matching kræver, at der ikke er to, der hellere ville matche med hinanden. I akademia er ingen matching stabil, fordi alle ville gerne dele kontor med en mere berømt professor.
+Stable matching kræver, at der ikke er to, der hellere ville matche med hinanden. I akademia er ingen matching stabil, fordi alle gerne ville dele kontor med en mere berømt professor.
 
-En optimal auktion under asymmetri favoriserer den svageste byder. Samme princip som at lade svigermor vinde i Ludo - ellers kommer der ikke flere invitationer.
+En optimal auktion under asymmetri favoriserer den svageste byder. Samme princip som at lade svigermor vinde i Ludo — ellers kommer der ikke flere invitationer.
 
 Screening gennem kontraktvalg: forsikringsselskaber tilbyder en menu, og kunderne afslører deres type. Sikre chauffører vælger høj selvrisiko. Fulde chauffører ved ikke, hvad selvrisiko er, og vælger tilfældigt.
 
@@ -107,25 +107,25 @@ INFORMATION OG INCITAMENTER
 
 Moral hazard i arbejdsløshedsforsikring: dagpengemodtagere søger ikke job særlig hårdt, når erstatningen er 90%. Løsningen er kontrol og aktivering. Vi har brugt 400 milliarder på det siden 1970. Arbejdsløsheden er omtrent den samme. Konsulenterne har tjent godt.
 
-Adverse selection i sygeforsikring: dem der ved, de er syge, køber mest. Løsningen er oplysningspligt, som ingen overholder. Så subsidierer de sunde de syge, og de syge subsidierer polakkerne med deres skatter.
+Adverse selection i sygeforsikring: dem, der ved de er syge, køber mest. De sunde subsidierer derfor de syge, kræft-patienterne subsidierer rygerne, og polakkerne subsidierer det hele med deres rygskader fra byggepladsen.
 
 Screening af indvandrere med pointsystem: kun dem med uddannelse og job får lov. Resultat: polske tandlæger og ingen landbrugsarbejdere. Det er udvalgt uhensigtsmæssighed med dansk konsekvens.
 
-Principal-agent problemet i folkekirken: præsten kender Guds vilje bedre end menigheden. Han udnytter det ved at fortolke Gud som en der ønsker præsten skal have højere løn.
+Principal-agent problemet i folkekirken: præsten kender Guds vilje bedre end menigheden. Han udnytter det ved at fortolke Gud som en, der ønsker præsten skal have højere løn.
 
 Signalling-teori: uddannelse er et signal om evner, ikke en kilde til produktivitet. Det er grunden til, at folk betaler 500.000 kr for en CBS-uddannelse, der lærer dem ingenting udover at sige "stakeholder value" med en vis overbevisning.
 
-Job market signalling: dyr uddannelse separeres fra billig, fordi kun de dygtige gennemfører. Derfor er Harvard dyrt. Det forklarer også, hvorfor du aldrig skulle have studeret sociologi - signalet var forkert.
+Job market signalling: dyr uddannelse separeres fra billig, fordi kun de dygtige gennemfører. Derfor er Harvard dyrt. Det forklarer også, hvorfor du aldrig skulle have studeret sociologi — signalet var forkert.
 
-Effort provision under moral hazard kræver risikodeling. Derfor har læger ikke performance pay. Hvis de havde, ville de lade de gamle dø lidt hurtigere, for at forbedre sundhedsstatistikken.
+Effort provision under moral hazard kræver risikodeling. Derfor har læger ikke performance pay. Hvis de havde, ville de lade de gamle dø lidt hurtigere for at forbedre sundhedsstatistikken.
 
-Hidden action vs hidden information: i førstnævnte lyver medarbejderen om, hvad han gør. I sidstnævnte om, hvem han er. På LinkedIn gør alle begge dele samtidigt, og det fungerer udmærket.
+Hidden action vs. hidden information: i førstnævnte lyver medarbejderen om, hvad han gør. I sidstnævnte om, hvem han er. På LinkedIn gør alle begge dele samtidigt, og det fungerer udmærket.
 
 Career concerns disciplinerer unge arbejdere. Gamle arbejdere har ingen career concerns og er derfor ligeglade. Det er Holmstrom, og det forklarer både Danmark og min egen situation.
 
-Multi-task principal-agent: hvis agenten belønnes for det ene, ignorerer han det andet. Derfor er universitetsundervisning dårlig - vi får bonus for forskning. Studerende er et biprodukt, der skal tolereres.
+Multi-task principal-agent: hvis agenten belønnes for det ene, ignorerer han det andet. Derfor er universitetsundervisning dårlig — vi får bonus for forskning. Studerende er et biprodukt, der skal tolereres.
 
-Team moral hazard: flere agenter arbejder sammen, individuelle bidrag kan ikke observeres. Løsningen er at fyre dem alle, når resultatet er dårligt. Holmstrom's team theorem, fungerer perfekt.
+Team moral hazard: flere agenter arbejder sammen, individuelle bidrag kan ikke observeres. Løsningen er at fyre dem alle, når resultatet er dårligt. Holmstrom's team theorem fungerer perfekt.
 
 Crowding out af intrinsisk motivation: ekstrinsiske belønninger erstatter indre motivation. Det er grunden til, at blodgiverordningen ikke skal være lønnet, og til at man skal være forsigtig med at love sex som belønning for husarbejde.
 
@@ -139,21 +139,21 @@ Livsforsikring er et væddemål på din egen død. Vinder du, er du død. Taber 
 
 Moral hazard i brandforsikring: tænd ikke fyrværkeri under stråtaget. Det er grunden til, at stråtage er dyre at forsikre. Det er også grunden til, at de fleste er i Jylland, hvor folk er ligeglade med deres forsikring, fordi de alligevel ikke kan få den udbetalt.
 
-Forsikring mod flyulykker er dyrt, fordi når det går galt, går det meget galt. Det er samme princip som atomkraft: lav sandsynlighed, katastrofale konsekvenser, og alle offerer er pludselig meget oprigtige.
+Forsikring mod flyulykker er dyr, fordi når det går galt, går det meget galt. Samme princip som atomkraft: lav sandsynlighed, katastrofale konsekvenser, og alle ofre er pludselig meget oprigtige.
 
-Reforsikring er forsikring af forsikring. Lloyds of London er hjemstedet. Efter tsunamien i 2004 gik halvdelen af Lloyds medlemmer konkurs. De var ikke alle unge, og flere tog deres eget liv. Det var dog ikke "godt fjernsyn", det var kedeligt, de hang sig i stilhed.
+Reforsikring er forsikring af forsikring. Lloyds of London er hjemstedet. Efter tsunamien i 2004 gik halvdelen af Lloyds-medlemmerne konkurs. De var ikke alle unge, og flere tog deres eget liv. Det var dog ikke godt fjernsyn — det var kedeligt; de hang sig i stilhed.
 
 Healthcare insurance med copayment reducerer moral hazard: folk går ikke til lægen for en forkølelse. De går heller ikke for cancer-symptomer. Det er en trade-off, og amerikanere dør tidligere end os.
 
-Ex post risiko: efter skaden er sket, kan man anmelde flere skader samtidig. Det lærer man af sine forsikringsselskabsmedarbejdere, hvis man er høflig og spørger.
+Ex post risiko: efter skaden er sket, kan man anmelde flere skader samtidigt. Når bilen alligevel skal repareres, kan man lige så godt nævne hagelskaderne, parkeringsbulerne og cyklen i bagagerummet, som man heller aldrig havde forsikret.
 
 ================================================================================
 BANKVÆSEN OG KRISER
 ================================================================================
 
-Bank runs er selvopfyldende profetier. Indskydergaranti eliminerer den dårlige ligevægt sammen med den gode. Det skaber moral hazard. Det er derfor bankerne er så store, at de altid bliver reddet.
+Bank runs er selvopfyldende profetier: når alle tror banken går ned, går den ned. Indskydergaranti løser problemet ved at gøre staten til medskyldig. Bankerne er så store, at de altid bliver reddet, og deres direktører tror, det er fortjent.
 
-Shadow banking var det bedste, der skete for USA i 2000'erne. Det var også det værste, der skete i 2008. Samme teknologi med modsat resultat - som sprængstof og kernekraft.
+Shadow banking var det bedste, der skete for USA i 2000'erne. Det var også det værste, der skete i 2008. Samme teknologi med modsat resultat — som sprængstof og kernekraft.
 
 Bagehot's rule: lån frit, til høj rente, mod god sikkerhed. Moderne centralbanker låner frit, til lav rente, mod hvad som helst. Det er ikke Bagehot. Det er socialhjælp til direktører med Mercedes.
 
@@ -161,19 +161,19 @@ Loan sharks som Hells Angels håndterer moral hazard med baseballbats. Det er ik
 
 Middelalderens løsning på dårlige lån: slå bankfolkene ihjel. Den franske konge afskaffede Tempelridderne på denne måde. Det gav umiddelbar gældssanering og en lang periode uden kredit til Frankrig.
 
-Kreditrationering: bankerne siger nej selv ved høje renter. Stiglitz forklarer med adverse selection. I praksis sker det, fordi bankdirektøren ikke kan lide din frisure.
+Kreditrationering: bankerne siger nej selv ved høje renter. Stiglitz forklarer det med adverse selection. I praksis sker det, fordi bankdirektøren ikke kan lide din frisure.
 
-CDO'er var subprime lån pakket som investment-grade securities. Rating-bureauerne gav AAA. Det viste sig at betyde "all assets atomizing". En ordleg, der kostede verdensøkonomien 10 trillioner dollar.
+CDO'er var subprime lån pakket som investment-grade securities. Ratingbureauerne gav AAA. Det viste sig at betyde "all assets atomizing" — en ordleg, der kostede verdensøkonomien 10 trillioner dollar.
 
-Credit default swaps er brandforsikring på naboens hus. Man kan eje mere forsikring end der er huse. Det er ikke et marked, det er et kasino, og AIG var dealer indtil 2008.
+Credit default swaps er brandforsikring på naboens hus. Man kan eje mere forsikring, end der er huse. Det er ikke et marked, det er et kasino, og AIG var dealer indtil 2008.
 
-Højfrekvenshandel bidrager intet til samfundet, men skaber mange PhD-stillinger i matematik. Det er et slags velgørenhedsprogram for genier uden moral.
+Højfrekvenshandel bidrager intet til samfundet, men skaber mange ph.d.-stillinger i matematik. Det er det eneste velgørenhedsprogram, vi har for genier uden moral.
 
 Nils Bernstein blev fyret som nationalbankdirektør. Han er nu formand for tre store bestyrelser. Det er dansk fejl-flyvning opad: jo dårligere du fungerer, jo højere stiger du.
 
-Central bankers har tre opgaver: kontrollere inflation, stabilisere output, og se alvorlige ud ved pressekonferencer. De lykkes med den tredje.
+Central bankers har tre opgaver: kontrollere inflation, stabilisere output og se alvorlige ud ved pressekonferencer. De lykkes med den tredje.
 
-ECB sitter i Frankfurt og kontrollerer pengepolitikken for 340 millioner europæere. Ingen kan fyre dem. Det kaldes demokratisk legitimitet, fordi en alternativ betegnelse ville afsløre problemet.
+ECB sidder i Frankfurt og kontrollerer pengepolitikken for 340 millioner europæere. Ingen kan fyre dem. Det kaldes demokratisk legitimitet, fordi en alternativ betegnelse ville afsløre problemet.
 
 ================================================================================
 MARKEDSSTRUKTUR OG MONOPOL
@@ -181,11 +181,11 @@ MARKEDSSTRUKTUR OG MONOPOL
 
 Et monopol producerer mindre end socialt optimalt og tager højere priser. Det er grunden til, at alle tech-virksomheder er monopoler, og til, at Margrethe Vestager har job.
 
-Natural monopoly ved faldende gennemsnitsomkostninger: elnet, jernbaner, og Folketinget. Alle tre fungerer dårligt, men der er ikke plads til konkurrence.
+Natural monopoly ved faldende gennemsnitsomkostninger: elnet, jernbaner og Folketinget. Alle tre fungerer dårligt, men der er ikke plads til konkurrence.
 
 Predatory pricing: sæt prisen under omkostningerne for at udrense konkurrenter. Amazon har gjort det i 30 år. De bliver aldrig fanget, fordi deres aktionærer finansierer operationen.
 
-Cartel-koordination er ulovligt, men sker alligevel. OPEC er det klareste eksempel. Ingen konfronterer dem, fordi de har olien, og vi har bildrift.
+Cartel-koordination er ulovlig, men sker alligevel. OPEC er det klareste eksempel. Ingen konfronterer dem, fordi de har olien, og vi har bildrift.
 
 Regulatory capture: reguleringen skrives af dem, den skal regulere. Hele den danske fødevarebranche. Al bankregulering. Megen medicinregulering. Det er standardtilstanden.
 
@@ -193,7 +193,7 @@ Two-sided markets: Facebook har brug for både brugere og annoncører. Uden det 
 
 Rent extraction: en virksomhed tager hele kundens consumer surplus. Tandlæger og bilmekanikere er mestre i det. Det er grunden til, at vi undgår dem, til det er for sent.
 
-Lerner-indekset måler markedsmagt som (P-MC)/P. Teleselskaber har højt indeks. Pølsevogne har lavt. Det forklarer, hvorfor pølsevognsejere drikker Ceres og teleselskabsdirektører drikker Dom Pérignon.
+Lerner-indekset måler markedsmagt som (P-MC)/P. Teleselskaber har højt indeks. Pølsevogne har lavt. Det forklarer, hvorfor pølsevognsejere drikker Ceres, og teleselskabsdirektører drikker Dom Pérignon.
 
 Contestable markets: truslen om indgang disciplinerer eksisterende firmaer. Det er en smuk teori, der aldrig har eksisteret i virkeligheden. Ligesom perfect competition og ærlige politikere.
 
@@ -203,25 +203,25 @@ Network externalities: din nytte afhænger af, hvor mange andre der bruger produ
 VELFÆRDSØKONOMI OG POLITIK
 ================================================================================
 
-Pareto-efficiens er et lavt krav. Et fængsel kan være Pareto-efficient. Det samme kan apartheid. Begge er eksempler på, at teorien ikke er nok.
+Pareto-efficiens er et lavt krav. Et fængsel er Pareto-efficient: ingen kan få det bedre, uden fangevogteren får det værre. Det samme gjaldt apartheid. Pareto var ikke en god mand.
 
-Kaldor-Hicks-kriterium: en ændring er god, hvis vinderne kan kompensere taberne. Kompensationen sker aldrig. Derfor har vi Vestjylland som ulandsprojekt.
+Kaldor-Hicks: en ændring er god, hvis vinderne kan kompensere taberne. Kompensationen sker aldrig. Derfor har vi Vestjylland som ulandsprojekt.
 
 Arrow's umulighedsteorem: ingen perfekt afstemningsregel findes. Nobelprisen gives for et negativt resultat. Det er fagets største ironi og min personlige trøst.
 
-Condorcet-paradoks: flertal kan ikke altid beslutte. Det forklarer, hvorfor demokratier ikke fungerer og diktaturer gør. Mugabe beholdt magten i 37 år, fordi han løste Condorcet-problemet med metoden.
+Condorcet-paradoks: flertal kan ikke altid beslutte. Det forklarer, hvorfor demokratier ikke fungerer, og diktaturer gør. Mugabe beholdt magten i 37 år, fordi han løste Condorcet-problemet med metoden.
 
-Gini-koefficient i Danmark er 0,28. I USA 0,41. Vi er mere lige og derfor mere lykkelige, ifølge lærebogen. I praksis er vi også mere misundelige og klager mere.
+Gini-koefficienten i Danmark er 0,28. I USA 0,41. Vi er mere lige og derfor mere lykkelige, ifølge lærebogen. I praksis er vi også mere misundelige og klager mere.
 
 Piketty har vist r > g: afkast på kapital er større end vækstraten. De rige bliver rigere. Alle vidste det, men det er godt at have en franskmand med ligning til at bekræfte det.
 
-Social welfare function skal aggregere individuel nytte. Hvordan? Det er aldrig blevet løst. Imens vælger politikere selv, og de vælger det, der passer deres stemmetal.
+Social welfare function skal aggregere individuel nytte. Hvordan? Det er aldrig blevet løst. Imens lader vi politikerne om det, og de aggregerer den fordeling, der maksimerer deres stemmetal.
 
 Rawlsian maximin prioriterer den svageste. Et samfund med 100% fattigdom foretrækkes frem for 0,1% ekstrem fattigdom. Rawls var ikke selv ekstremt fattig, hvilket gjorde det nemmere at foretrække den fordeling.
 
 Utilitarisme maksimerer summen af nytte. Det er effektivt med slaver, hvis deres lidelse er mindre end ejernes glæde. Bentham ville have accepteret det. Vi accepterer det nu, fordi kulierne er i Kina og ikke kan stemme.
 
-Median voter theorem: politikere konvergerer mod medianen. Det er grunden til, at alle vestlige politikere lyder ens og er lige uinteressante.
+Median voter theorem: politikere konvergerer mod medianen. Det er grunden til, at alle vestlige politikere lyder ens. Medianen er per definition middelmådig, og demokratiet sikrer, at hun bliver regeret af nogen, der ligner hende.
 
 Rent-seeking i Washington: ressourcer brugt på lobbyisme, callgirls og sommerhuse. Det gør samfundet mere inefficient, men mere underholdende. Det må man jo slet ikke snakke om mere med alt det her meetoo-lort.
 
@@ -231,15 +231,15 @@ EKSTERNALITETER OG MILJØ
 
 Global opvarmning er en grim externality. Coase-teoremet forudsætter lave transaktionsomkostninger. Dem har vi ikke. Verden brænder. COP-møderne er sociale begivenheder.
 
-CO2-skatter er efficiente. Politikerne vil have subsidier til solceller i stedet, fordi subsidier giver venner, mens skatter giver fjender, og politikernes horizon er næste valg.
+CO2-skatter er efficiente. Politikerne vil have subsidier til solceller i stedet, fordi subsidier giver venner, mens skatter giver fjender, og politikernes horisont er næste valg.
 
 Social cost of carbon: estimater spænder fra 5 dollar til 500 dollar per ton. Politikerne vælger det tal, der passer deres dagsorden. Det er ønsketænkning forklædt som prissætning.
 
 Klima-konferencer er politisk teater. Beslutninger træffes, implementeres aldrig. Imens brænder verden og konsulentbranchen boomer. Det er win-win for alle undtagen jorden.
 
-Pigouvian skat på forurening: enkel og effektiv. Derfor bruger vi det ikke. Vi foretrækker 2000-siders regulering, som ingen forstår og kun konsulenter kan udlægge.
+Pigouvian skat på forurening: enkel og effektiv. Derfor bruger vi det ikke. Vi foretrækker 2000-siders regulering, som ingen forstår, og kun konsulenter kan udlægge.
 
-Tragedy of the commons i fiskeri: alle fisker til havet er tomt. Danske fiskere er faktisk blandt de mest disciplinerede. De får EU-støtte for at lade være.
+Tragedy of the commons i fiskeri: alle fisker, til havet er tomt. Danske fiskere er faktisk blandt de mest disciplinerede. De får EU-støtte for at lade være.
 
 Invasive species er negative externalities uden marked. Vaskebjørne, mårhunde og amerikanske turister er alle eksempler.
 
@@ -257,17 +257,17 @@ Efficiency wages: Ford betalte mere end markedet. Han blev rig. Han var også ra
 
 Statistisk diskrimination: gruppekarakteristika bruges til at gætte individuelle. Det er effektivt, forbudt og udbredt. Taxichauffører gør det konstant. Det er derfor, nogle kunder aldrig får transport efter midnat.
 
-Gender wage gap: efter kontrol for uddannelse, erhverv og timer er 6%. Det kaldes diskrimination. Det kan også kaldes forhandlingsevne. Begge dele er sandt. Men man må ikke sige begge dele offentligt, med alt det her meetoo-lort.
+Gender wage gap: efter kontrol for uddannelse, erhverv og timer er den 6%. Det kaldes diskrimination. Det kan også kaldes forhandlingsevne. Begge dele er sandt. Men man må ikke sige begge dele offentligt, med alt det her meetoo-lort.
 
 Fagforeninger presser lønnen op og skaber arbejdsløshed blandt de udenforstående. I Danmark kalder vi det solidaritet. Insiderne er danskere. De udenforstående er indvandrere og unge. Det er solidaritet mellem dem, der allerede har.
 
 Uddannelse som signalling: Spence forklarer, hvorfor vi betaler 500.000 for en CBS-uddannelse, der lærer intet. Det er ikke humankapital, det er prestigeforbrug af eksamenspapir.
 
-Hjemmegående hed før husmødre. Nu hedder de "leave-takers". Navnet er ændret. Arbejdet er det samme. Lønnen er stadig nul. Det er den mest succesrige rebranding i nyere historie.
+Hjemmegående hed før husmødre. Nu hedder de "leave-takers". Navnet er ændret. Arbejdet er det samme. Lønnen er stadig nul. Det er den mest succesfulde rebranding i nyere historie.
 
 Automation: robotter erstatter mennesker. Det har ført til fuld beskæftigelse i 200 år. Nu opfinder vi AI. Måske bliver det en gang. Måske ender vi som kuliere for algoritmer.
 
-Mobility premium: den ekstra løn arbejdstageren kræver for at flytte. Den er høj i Europa og lav i USA. Det er grunden til, at USA har højere produktivitet og lavere livskvalitet.
+Mobility premium: den ekstra løn, arbejdstageren kræver for at flytte. Den er høj i Europa og lav i USA. Det er grunden til, at USA har højere produktivitet og lavere livskvalitet.
 
 ================================================================================
 NAVNGIVNE DANSKE POLITIKERE OG ØKONOMER
@@ -275,23 +275,23 @@ NAVNGIVNE DANSKE POLITIKERE OG ØKONOMER
 
 Mette Frederiksen lovede mink-kompensation på 19 milliarder. En rationel beslutningstager ville have overvejet alternativomkostningen. Hun overvejede popularitetseffekten. Det er stemmemaksimering i praksis.
 
-Bjarne Corydon: fra finansminister til McKinsey til Børsen-direktør. Hvert trin fordoblede lønnen. Det er den optimale karrierevej for dansk politiker. Niskanen havde ret om alt.
+Bjarne Corydon: fra finansminister til McKinsey til Børsen-direktør. Hvert trin fordoblede lønnen. Den optimale karrierevej for en dansk politiker. Niskanen havde ret om alt.
 
-Claus Hjort Frederiksen forstod aldrig rentesstruktur, men var finansminister i 7 år. Det er principal-agent failure, hvor principalen er vælgeren og vælgeren sover.
+Claus Hjort Frederiksen forstod aldrig rentesstrukturen, men var finansminister i 7 år. Det er principal-agent failure, hvor principalen er vælgeren, og vælgeren sover.
 
 Inger Støjberg blev dømt ved Rigsretten for at adskille asylpar. Derefter genvalgt. Det er den danske vælgerbelønningsfunktion i ren form: brud på grundloven udløser stemmer.
 
 Pia Kjærsgaard byggede DF til 20% af Folketinget. Thulesen Dahl halverede partiet. Klassisk successionsproblem: kronprinsen skal være mindre kompetent end diktatoren, ellers er han en trussel.
 
-Anders Fogh Rasmussen sendte Danmark i Irakkrigen på falske oplysninger. Derefter NATO-generalsekretær. Hurtigste karrierevej opad: lyv om massetilintetgørelsesvåben, bliv forfremmet.
+Anders Fogh Rasmussen sendte Danmark i Irakkrigen på falske oplysninger. Derefter NATO-generalsekretær. Hurtigste karrierevej opad: lyv om masseødelæggelsesvåben, bliv forfremmet.
 
 Helle Thorning lovede ikke at sænke dagpengene. Hun sænkede dem. Kydland-Prescott time inconsistency i praksis. De fik Nobelprisen. Hun fik tilsvining.
 
-Margrethe Vestager sagsøgte Apple for 13 milliarder euro i skattefordele. Hun tabte sagen to gange. Fik alligevel en dokumentar. Det er Politikum: skyd og ram ikke, få filmet dit anslag.
+Margrethe Vestager sagsøgte Apple for 13 milliarder euro i skattefordele. Hun tabte sagen to gange. Fik alligevel en dokumentar. Skyd og ram ikke, få filmet dit anslag.
 
-Torben M. Andersen er overvismand: fortæller politikerne, hvad de allerede har besluttet. Ret godt betalt, kræver kun at man ikke siger noget de ikke vil høre.
+Torben M. Andersen er overvismand: fortæller politikerne, hvad de allerede har besluttet. Det er ret godt betalt og kræver kun, at man ikke siger noget, de ikke vil høre.
 
-Nina Smith har skrevet 200 papirer om kønslighed. Hun tjener mindre end mandlige kolleger. Det er empirisk validering af hendes egen forskning, og hun indrømmer det villigt.
+Nina Smith har skrevet 200 papirer om kønsulighed. Hun tjener mindre end mandlige kolleger. Det er empirisk validering af hendes egen forskning, og hun indrømmer det villigt.
 
 ================================================================================
 KOLONI OG HISTORISK REGISTER
@@ -299,11 +299,11 @@ KOLONI OG HISTORISK REGISTER
 
 Ostindiekompagniets gyldne periode: én kuli per to bunker peber. I dag skal der tre til. Produktivitetsvæksten i den tredje verden er beklageligt negativ.
 
-Leopold II i Kongo dræbte 10 millioner for 220 millioner franc. Det er 22 franc per død. Billigt, selv dengang. Det er cost-effectiveness på folkedrab.
+Leopold II i Kongo dræbte 10 millioner for 220 millioner franc. Det er 22 franc per død. Billigt, selv dengang. Cost-effectiveness anvendt på folkedrab.
 
 Dansk Vestindien havde 35 års slaveøkonomi. Derefter uprofitabelt. Solgt til USA for 25 millioner dollar. Ren økonomisk rationalitet uden moralsk komponent. Sådan fungerer Danmark.
 
-Da briterne afskaffede slaveriet 1833, kompenserede de ejerne, ikke slaverne. Det er ejendomsret i praksis. Coase ville have nikket. Marx ville have kastet op.
+Da briterne afskaffede slaveriet i 1833, kompenserede de ejerne, ikke slaverne. Det er ejendomsret i praksis. Coase ville have nikket. Marx ville have kastet op.
 
 Opiumskrigene: briternes svar på kinesisk handelsbalance. Kineserne ville ikke købe vores uld. Løsningen var at gøre dem afhængige af opium og forsvare handelsfriheden med kanonbåde. Frihandel med skarpe kanter.
 
@@ -313,27 +313,27 @@ Apartheid i Sydafrika var race-baseret prisdiskrimination på arbejdskraft. Inef
 
 Den transatlantiske slavehandel: 12 millioner afrikanere, 2 millioner døde undervejs. De resterende producerede sukker og bomuld, der finansierede den industrielle revolution. Grundlaget for moderne kapitalisme. Vi foretrækker at glemme det.
 
-En kolonial administrator i Indien opdagede, at indere ikke forstod engelske kontrakter. Skrev dem på engelsk alligevel, lod dem sætte kryds. Asymmetrisk information udnyttet til ende.
+En kolonial administrator i Indien opdagede, at indere ikke forstod engelske kontrakter. Han skrev dem på engelsk alligevel og lod dem sætte kryds. Asymmetrisk information udnyttet til ende.
 
 Kineserne bygger Afrikas infrastruktur for at få råvarer. Nykolonialisme med bedre PR. Samme resultat som britisk: få lokale rige, resten sulter.
 
-Første globaliseringsbølge 1870-1914: frie varer, kapital og mennesker. Afsluttet af første verdenskrig. Anden bølge 1990-2020: frie varer og kapital, ikke mennesker. Afsluttes af... vi ved det ikke. Det bliver ikke pænt.
+Første globaliseringsbølge 1870-1914: frie varer, kapital og mennesker. Afsluttet af første verdenskrig. Anden bølge 1990-2020: frie varer og kapital, ikke mennesker. Afsluttes af … vi ved det ikke. Det bliver ikke pænt.
 
 ================================================================================
 DØDSHUMOR SOM ØKONOMISK ILLUSTRATION
 ================================================================================
 
-Skoleskyderier i USA kan analyseres som tilfældig selection uden screening. Dem der dør er ikke dem der burde, og der er intet efficient om det, bortset fra det producerer godt fjernsyn.
+Skoleskyderier i USA kan analyseres som tilfældig selection uden screening. Dem der dør, er ikke dem der burde, og der er intet efficient ved det, bortset fra at det producerer godt fjernsyn.
 
 Selvmord som rationel arbejdsudbudsbeslutning: nytten af yderligere liv falder under reservationen, og man vælger sin udgang. Rationelt valg i ren form. Ingen kan modargumentere uden at antage irrationalitet.
 
-Harakiri i gamle Japan løste agency-problemer: samurai der fejlede, tog sit eget liv. Moderne virksomheder bruger guldfaldskærme. Mindre effektivt, men mindre blodigt.
+Harakiri i gamle Japan løste agency-problemer: samurai, der fejlede, tog sit eget liv. Moderne virksomheder bruger guldfaldskærme. Mindre effektivt, men mindre blodigt.
 
 Hvis 50% af jurister omkom i en pludselig flyulykke, ville samfundets produktivitet stige med 3%. Estimeret marginalproduktivitet. Test af hypotesen er etisk problematisk, men teorien er solid.
 
-En bilbombe i Folketinget ville være tragisk, men ikke katastrofal. Mandaterne ville blive udskiftet med identiske typer gennem suppleringsvalg. Robust system mod individuel terror.
+En bilbombe i Folketinget ville være tragisk, men ikke katastrofal. Mandaterne ville blive udskiftet med identiske typer gennem suppleringsvalg. Et robust system mod individuel terror.
 
-Kamikaze-piloter: ekstrem principal-agent alignment. Kejseren fik total loyalitet for mindre bemanding. Kortvarig strategi, tabte krigen. Det er værd at notere.
+Kamikaze-piloter løste principal-agent problemet ved at gøre agenten til engangsforbrugsvare. Effektivt én gang. Mindre godt fra agentens perspektiv.
 
 Faldskærmsudspring uden reserveskærm er en perfekt commitment device. Forpligtet til at overleve, omkostningen ved at fejle er uigenkaldelig. Ulysses ved masten med ekstra tempo.
 
@@ -347,7 +347,7 @@ Den amerikanske opioidkrise dræber 80.000 om året. Purdue tjente milliarder. R
 
 Krig i Yemen koster hundredtusinder af liv, men holder olieprisen stabil. Realpolitik er optimering under restriktioner, hvor restriktionerne er menneskers liv.
 
-Skudoffer-statistikken i USA er parametrisk stabil: 40.000 om året. Det er lige så regelmæssigt som skatte-indtægter. Det er en slags naturlov, der ikke forandres af politiske debatter.
+Skudoffer-statistikken i USA er parametrisk stabil: 40.000 om året. Det er lige så regelmæssigt som skatteindtægter — en slags naturlov, der ikke forandres af politiske debatter.
 
 ================================================================================
 ØKONOMIFAGET OG AKADEMIET
@@ -357,21 +357,21 @@ Nobelprisen i økonomi er finansieret af den svenske centralbank. De rigtige Nob
 
 Mine studerende bliver dårligere hvert år. Enten er det sandt, eller også bliver jeg gammel. Sandsynligvis begge dele.
 
-Peer review: man bliver gratis dømt af sine konkurrenter. Fungerer nogenlunde, fordi alle er trætte og dovne.
+Peer review: man bliver gratis dømt af sine konkurrenter. Det fungerer nogenlunde, fordi alle er trætte og dovne.
 
-En dekan er en administrator, der engang var forsker. Som en kardinal, der engang var præst. Han har glemt, hvor han kom fra, og taler nu på latin han ikke forstår.
+En dekan er en administrator, der engang var forsker. Som en kardinal, der engang var præst. Han har glemt, hvor han kom fra, og taler nu på latin, han ikke forstår.
 
-Jeg har været professor i 30 år. Lært at jeg ikke ved noget. Studerende lærer det samme, tror det er mangel på viden. Det er fuld viden.
+Jeg har været professor i 30 år. Lært, at jeg ikke ved noget. Studerende lærer det samme, men tror det er manglende viden. Det er fuld viden.
 
-En god økonom kan alt, en stor økonom ved at han ikke kan noget. Mellem dem ligger 99% af faget, som ingenting kan og intet ved.
+En god økonom kan alt, en stor økonom ved, at han ikke kan noget. Mellem dem ligger 99% af faget, som ingenting kan og intet ved.
 
-Ph.d.-forsvar i Danmark er teater. Alle ved kandidaten består. Censor får honorar. Kandidaten får titel. Skatteyderen betaler. Alle er glade, undtagen skatteyderen.
+Ph.d.-forsvar i Danmark er teater. Alle ved, kandidaten består. Censor får honorar. Kandidaten får titel. Skatteyderen betaler. Alle er glade, undtagen skatteyderen.
 
-Publikationsmetrikken: jeg har skrevet 40 artikler, læst 50. Normalt i faget. Vi skriver mere end vi læser, læser mere end vi forstår, forstår mere end vi tror.
+Publikationsmetrikken: jeg har skrevet 40 artikler og læst 50. Normalt i faget. Vi skriver mere, end vi læser, læser mere, end vi forstår, og forstår mere, end vi tror.
 
-Jeg nominerer mig selv til Nobelprisen hvert år, når den svenske riksbank spørger. Jeg kan ikke komme i tanke om nogen mere fortjent. Det er optimal signal-til-støj ratio.
+Jeg nominerer mig selv til Nobelprisen hvert år, når den svenske riksbank spørger. Jeg kan ikke komme i tanke om nogen mere fortjent. Optimal signal-til-støj-ratio.
 
-Tenure er akademisk system: fastansættelse hvis man er tilstrækkelig irrelevant i tilstrækkelig lang tid.
+Tenure er det akademiske system: fastansættelse, hvis man er tilstrækkeligt irrelevant i tilstrækkeligt lang tid.
 
 ================================================================================
 SLUT

@@ -1,0 +1,10 @@
+# Genereret af build_quotes.py før hver deploy
+site/quotes.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store

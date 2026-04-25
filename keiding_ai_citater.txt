@@ -28,7 +28,7 @@ Substitution effect: stiger prisen på oksekød, spiser man svinekød i stedet. 
 
 Indifferenskurvernes konveksitet kommer af, at forbrugeren gerne vil have lidt af begge goder. Hvis han kun vil have det ene, skal vi overveje om han er religiøs eller bare besværlig.
 
-Utility fra en ekstra kone falder hurtigt efter den første. Utility fra en ekstra callgirl forbliver cirka konstant. Det er substitutionseffekten, som ikke står i lærebogen, men som er empirisk solid.
+Nytten af en ekstra kone falder hurtigt efter den første. Nytten af en ekstra callgirl forbliver cirka konstant. Det er substitutionseffekten, som ikke står i lærebogen, men som er empirisk solid.
 
 ================================================================================
 PRODUKTION OG OMKOSTNINGER
@@ -168,8 +168,6 @@ Bilforsikring med selvrisiko på 5000 kr får folk til at køre forsigtigere. Se
 
 Forsikring mod flyulykker er dyrt, fordi når det går galt, går det meget galt. Det er samme princip som atomkraft: lav sandsynlighed, katastrofale konsekvenser, og alle offerer er pludselig meget oprigtige.
 
-Annuities er forsikring mod at leve for længe. Man betaler for den risiko, at ens eneste positivoutcome indtræffer. Det er perverst, men logisk.
-
 Reforsikring er forsikring af forsikring. Lloyds of London er hjemstedet. Efter tsunamien i 2004 gik halvdelen af Lloyds medlemmer konkurs. De var ikke alle unge, og flere tog deres eget liv. Det var dog ikke "godt fjernsyn", det var kedeligt, de hang sig i stilhed.
 
 Healthcare insurance med copayment reducerer moral hazard: folk går ikke til lægen for en forkølelse. De går heller ikke for cancer-symptomer. Det er en trade-off, og amerikanere dør tidligere end os.
@@ -206,7 +204,7 @@ CDO'er var subprime lån pakket som investment-grade securities. Rating-bureauer
 
 Credit default swaps er brandforsikring på naboens hus. Man kan eje mere forsikring end der er huse. Det er ikke et marked, det er et kasino, og AIG var dealer indtil 2008.
 
-Højfrekvenshandel bidrager intet til samfundet, men skaber mange PhD-stillinger i matematik. Det er et slags velgørenhedsprogram for genier uden morale.
+Højfrekvenshandel bidrager intet til samfundet, men skaber mange PhD-stillinger i matematik. Det er et slags velgørenhedsprogram for genier uden moral.
 
 Nils Bernstein blev fyret som nationalbankdirektør. Han er nu formand for tre store bestyrelser. Det er dansk fejl-flyvning opad: jo dårligere du fungerer, jo højere stiger du.
 
@@ -268,7 +266,7 @@ Social welfare function skal aggregere individuel nytte. Hvordan? Det er aldrig 
 
 Efficiency-equity trade-off: flere skatter reducerer ulighed men også produktion. Det er kraftig teori og svag empiri. I OECD-lande korrelerer skatter og velstand positivt, hvilket alle økonomer foretrækker at ignorere.
 
-Rawlsian maximin prioriterer den svageste. Et samfund med 100% fattigdom foretrækkes frem for 0,1% ekstrem fattigdom. Rawls var ikke selv ekstremt fattig, hvilket gjorde det nemmere at præferere den distributionen.
+Rawlsian maximin prioriterer den svageste. Et samfund med 100% fattigdom foretrækkes frem for 0,1% ekstrem fattigdom. Rawls var ikke selv ekstremt fattig, hvilket gjorde det nemmere at foretrække den fordeling.
 
 Utilitarisme maksimerer summen af nytte. Det er effektivt med slaver, hvis deres lidelse er mindre end ejernes glæde. Bentham ville have accepteret det. Vi accepterer det nu, fordi kulierne er i Kina og ikke kan stemme.
 
@@ -290,7 +288,7 @@ CO2-skatter er efficiente. Politikerne vil have subsidier til solceller i stedet
 
 Cap and trade: handel med forureningsrettigheder. EU's ETS har primært subsidieret tunge industrier. Regulatory capture med miljøkulisse.
 
-Social cost of carbon: estimater spænder fra 5 dollar til 500 dollar per ton. Politikerne vælger det tal, der passer deres dagsorden. Det er wishful pricing.
+Social cost of carbon: estimater spænder fra 5 dollar til 500 dollar per ton. Politikerne vælger det tal, der passer deres dagsorden. Det er ønsketænkning forklædt som prissætning.
 
 Klima-konferencer er politisk teater. Beslutninger træffes, implementeres aldrig. Imens brænder verden og konsulentbranchen boomer. Det er win-win for alle undtagen jorden.
 
@@ -322,9 +320,9 @@ Statistisk diskrimination: gruppekarakteristika bruges til at gætte individuell
 
 Gender wage gap: efter kontrol for uddannelse, erhverv og timer er 6%. Det kaldes diskrimination. Det kan også kaldes forhandlingsevne. Begge dele er sandt. Men man må ikke sige begge dele offentligt, med alt det her meetoo-lort.
 
-Fagforeninger presser lønnen op og skaber arbejdsløshed blandt outsiders. I Danmark kalder vi det solidaritet. Insidere er danskere. Outsiders er indvandrere og unge. Det er solidaritet mellem dem, der allerede har.
+Fagforeninger presser lønnen op og skaber arbejdsløshed blandt de udenforstående. I Danmark kalder vi det solidaritet. Insiderne er danskere. De udenforstående er indvandrere og unge. Det er solidaritet mellem dem, der allerede har.
 
-Uddannelse som signalling: Spence forklarer, hvorfor vi betaler 500.000 for en CBS-uddannelse, der lærer intet. Det er ikke human capital, det er conspicuous credential consumption.
+Uddannelse som signalling: Spence forklarer, hvorfor vi betaler 500.000 for en CBS-uddannelse, der lærer intet. Det er ikke humankapital, det er prestigeforbrug af eksamenspapir.
 
 Hjemmegående hed før husmødre. Nu hedder de "leave-takers". Navnet er ændret. Arbejdet er det samme. Lønnen er stadig nul. Det er den mest succesrige rebranding i nyere historie.
 
@@ -332,7 +330,7 @@ Automation: robotter erstatter mennesker. Det har ført til fuld beskæftigelse 
 
 Unemployment insurance med 90% erstatning reducerer søgeindsatsen. Danmark har 90% erstatning for lavtlønnede og høj arbejdsløshed blandt lavtlønnede. Empirisk validering af teorien, og intet bliver gjort.
 
-Insider-outsider model forklarer vedvarende arbejdsløshed. Insiders forhandler højere løn uden bekymring for outsiders. Det er grunden til, at alle unge vil være kommunalt ansatte. Det er også grunden til, at kommunerne bryder sammen under kravene.
+Insider-outsider-modellen forklarer vedvarende arbejdsløshed. Insiderne forhandler højere løn uden bekymring for de udenforstående. Det er grunden til, at alle unge vil være kommunalt ansatte. Det er også grunden til, at kommunerne bryder sammen under kravene.
 
 Beveridge-kurven: relation mellem ledige stillinger og arbejdsløshed. Når den flytter udad, er matching blevet værre. Typisk flytter den udad, fordi arbejdsløse bliver dårligere og stillinger bliver mere specialiserede.
 
@@ -348,7 +346,7 @@ Bjarne Corydon: fra finansminister til McKinsey til Børsen-direktør. Hvert tri
 
 Claus Hjort Frederiksen forstod aldrig rentesstruktur, men var finansminister i 7 år. Det er principal-agent failure, hvor principalen er vælgeren og vælgeren sover.
 
-Inger Støjberg blev dømt ved Rigsretten for at adskille asylpar. Derefter genvalgt. Danish democratic reward function i ren form: brud på grundloven udløser vælgerstøtte.
+Inger Støjberg blev dømt ved Rigsretten for at adskille asylpar. Derefter genvalgt. Det er den danske vælgerbelønningsfunktion i ren form: brud på grundloven udløser stemmer.
 
 Pia Kjærsgaard byggede DF til 20% af Folketinget. Thulesen Dahl halverede partiet. Klassisk successionsproblem: kronprinsen skal være mindre kompetent end diktatoren, ellers er han en trussel.
 
@@ -382,7 +380,7 @@ Uffe Ellemann: Venstre-leder i 14 år, så kommentator. Uundgåelig overgang for
 
 Lars Rohde: nationalbankdirektør siden 2013, primær strategi at ikke gøre noget. Det er effektivt. De gange nationalbanken faktisk gør noget, ender det i kriser.
 
-Ellen Trane Nørby forsvarede grimme beslutninger for skiftende regeringer. Nu konsulent. Det er entropy: politikere ender altid i privatsektoren, deres eneste kompetence er deres netværk.
+Ellen Trane Nørby forsvarede grimme beslutninger for skiftende regeringer. Nu konsulent. Det er entropi: politikere ender altid i privatsektoren, deres eneste kompetence er deres netværk.
 
 ================================================================================
 KOLONI OG HISTORISK REGISTER
@@ -394,15 +392,15 @@ Leopold II i Kongo dræbte 10 millioner for 220 millioner franc. Det er 22 franc
 
 Dansk Vestindien havde 35 års slaveøkonomi. Derefter uprofitabelt. Solgt til USA for 25 millioner dollar. Ren økonomisk rationalitet uden moralsk komponent. Sådan fungerer Danmark.
 
-Da briterne afskaffede slaveriet 1833, kompenserede de ejerne, ikke slaverne. Property rights in action. Coase ville have nikket. Marx ville have kastet op.
+Da briterne afskaffede slaveriet 1833, kompenserede de ejerne, ikke slaverne. Det er ejendomsret i praksis. Coase ville have nikket. Marx ville have kastet op.
 
-Opiumskrigene: briternes svar på kinesisk handelsbalance. Kineserne ville ikke købe vores uld. Løsningen var at gøre dem afhængige af opium og forsvare handelsfriheden med kanonbåde. Free trade med astringens.
+Opiumskrigene: briternes svar på kinesisk handelsbalance. Kineserne ville ikke købe vores uld. Løsningen var at gøre dem afhængige af opium og forsvare handelsfriheden med kanonbåde. Frihandel med skarpe kanter.
 
 Hollandske Østindiske Kompagni betalte 40% udbytte i et halvt århundrede på krydderi-monopol og slaveri. Aktieselskabet i sin rene form: private gevinster, kollektive omkostninger.
 
-Apartheid i Sydafrika var race-baseret price discrimination på arbejdskraft. Ineffektivt for samlet velfærd, effektivt for hvid velfærd. Intentional inefficiency, og succesrig i 50 år.
+Apartheid i Sydafrika var race-baseret prisdiskrimination på arbejdskraft. Ineffektivt for samlet velfærd, effektivt for hvid velfærd. Tilsigtet ineffektivitet, og succesrig i 50 år.
 
-Transatlantic slavetrade: 12 millioner afrikanere, 2 millioner døde undervejs. De resterende producerede sukker og bomuld, der finansierede industriel revolution. Grundlag for moderne kapitalisme. Vi foretrækker at glemme det.
+Den transatlantiske slavehandel: 12 millioner afrikanere, 2 millioner døde undervejs. De resterende producerede sukker og bomuld, der finansierede den industrielle revolution. Grundlaget for moderne kapitalisme. Vi foretrækker at glemme det.
 
 Britiske imperium: første globale forsyningskæde. Indisk bomuld, engelske væverier, amerikansk slavearbejde, indisk opium til Kina for at finansiere te. Sofistikeret handel bygget på tvang.
 
@@ -424,9 +422,9 @@ DØDSHUMOR SOM ØKONOMISK ILLUSTRATION
 
 Skoleskyderier i USA kan analyseres som tilfældig selection uden screening. Dem der dør er ikke dem der burde, og der er intet efficient om det, bortset fra det producerer godt fjernsyn.
 
-Selvmord som rationel arbejdsudbudsbeslutning: utility fra yderligere liv falder under reservationen, og man vælger sin exit. Rational choice i ren form. Ingen kan modargumentere uden at antage irrationalitet.
+Selvmord som rationel arbejdsudbudsbeslutning: nytten af yderligere liv falder under reservationen, og man vælger sin udgang. Rationelt valg i ren form. Ingen kan modargumentere uden at antage irrationalitet.
 
-Harakiri i gamle Japan løste agency-problemer: samurai der fejlede, tog sit eget liv. Moderne virksomheder bruger guldparachutter. Mindre efficient, men mindre blodigt.
+Harakiri i gamle Japan løste agency-problemer: samurai der fejlede, tog sit eget liv. Moderne virksomheder bruger guldfaldskærme. Mindre effektivt, men mindre blodigt.
 
 Hvis 50% af jurister omkom i en pludselig flyulykke, ville samfundets produktivitet stige med 3%. Estimeret marginalproduktivitet. Test af hypotesen er etisk problematisk, men teorien er solid.
 
@@ -440,15 +438,15 @@ Flyulykker reduceres, hvis piloter henrettes ved første fejl. Skaber incitament
 
 Kamikaze-piloter: ekstrem principal-agent alignment. Kejseren fik total loyalitet for mindre bemanding. Kortvarig strategi, tabte krigen. Det er værd at notere.
 
-Fallskærmsudspring uden reserveskærm er perfekt commitment device. Forpligtet til at overleve, omkostningen ved at fejle er uigenkaldelig. Ulysses ved masten med ekstra tempo.
+Faldskærmsudspring uden reserveskærm er en perfekt commitment device. Forpligtet til at overleve, omkostningen ved at fejle er uigenkaldelig. Ulysses ved masten med ekstra tempo.
 
 Henrettelse af bankfolk i middelalderen håndterede dårlige lån. Effektivt: kun overlevende banker var tilbage. Survivorship bias i finansiel sektor.
 
 Guillotinen under franske revolution løste overskud af aristokrater. Mechanism design: reducer udbuddet, prisen stiger for de tilbageværende. Virker også for akademikere, hvilket burde bekymre os alle.
 
-Tsunamien i 2004 dræbte 230.000. Forsikringsselskaberne tabte 10 milliarder dollar. Netto-effekt på aktiemarkedet positiv efter 6 måneder. Short-run shocks uden long-run virkning.
+Tsunamien i 2004 dræbte 230.000. Forsikringsselskaberne tabte 10 milliarder dollar. Netto-effekt på aktiemarkedet positiv efter 6 måneder. Kortsigtede chok uden langsigtet effekt.
 
-Når en bus med jurister kører over en skrænt, er det tragedie. Når samme bus kører over en fodgænger, er det advokatregning. Asymmetri af outcomes.
+Når en bus med jurister kører over en skrænt, er det tragedie. Når samme bus kører over en fodgænger, er det advokatregning. Asymmetri i udfald.
 
 Den amerikanske opioidkrise dræber 80.000 om året. Purdue tjente milliarder. Retsforliget kostede dem en brøkdel af gevinsten. Rational addiction anvendt på farmaceutisk kapitalisme.
 
@@ -483,8 +481,6 @@ Forskningsmidler uddeles efter peer review. Konkurrenterne dømmer dig. Fungerer
 Jeg nominerer mig selv til Nobelprisen hvert år, når den svenske riksbank spørger. Jeg kan ikke komme i tanke om nogen mere fortjent. Det er optimal signal-til-støj ratio.
 
 Tenure er akademisk system: fastansættelse hvis man er tilstrækkelig irrelevant i tilstrækkelig lang tid.
-
-A good economist can predict the future. A great one can explain why his prediction was wrong. Jeg har talent for det sidste.
 
 Konferencer: økonomer mødes for at læse hinandens artikler højt. Ikke særlig efficient, men kaffen er gratis og vinen også.
 

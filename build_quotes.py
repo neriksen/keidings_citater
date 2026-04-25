@@ -3,9 +3,9 @@
 
 Kører lokalt før hver deploy. Læser:
 - keiding_samlet.txt (autentiske citater fra forelæsninger)
-- keiding_ai_citater_v3.txt (AI-genererede i hans stil)
+- keiding_ai_citater.txt (AI-genererede i hans stil)
 
-Skriver site/quotes.json som array af {"text": str, "source": "original"|"ai-v3"}.
+Skriver site/quotes.json som array af {"text": str, "source": "original"|"ai"}.
 """
 
 from __future__ import annotations
@@ -72,7 +72,7 @@ def parse_original(path: Path) -> list[dict]:
     return quotes
 
 
-def parse_v3(path: Path) -> list[dict]:
+def parse_ai(path: Path) -> list[dict]:
     quotes: list[dict] = []
     text = path.read_text(encoding="utf-8")
 
@@ -106,7 +106,7 @@ def parse_v3(path: Path) -> list[dict]:
         if len(p) < 30:
             continue
 
-        quotes.append({"text": p, "source": "ai-v3"})
+        quotes.append({"text": p, "source": "ai"})
 
     return quotes
 
@@ -114,7 +114,7 @@ def parse_v3(path: Path) -> list[dict]:
 def main() -> None:
     quotes: list[dict] = []
     quotes += parse_original(REPO / "keiding_samlet.txt")
-    quotes += parse_v3(REPO / "keiding_ai_citater_v3.txt")
+    quotes += parse_ai(REPO / "keiding_ai_citater.txt")
 
     # Dedupe på exakt tekst (samlet.txt har et par dubletter på tværs af parts)
     seen: set[str] = set()
@@ -134,7 +134,7 @@ def main() -> None:
     )
 
     n_orig = sum(1 for q in deduped if q["source"] == "original")
-    n_ai = sum(1 for q in deduped if q["source"] == "ai-v3")
+    n_ai = sum(1 for q in deduped if q["source"] == "ai")
     print(f"Skrev {len(deduped)} citater til {out_path}")
     print(f"  autentiske:    {n_orig}")
     print(f"  ai-genereret:  {n_ai}")

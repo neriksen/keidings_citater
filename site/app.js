@@ -8,7 +8,7 @@
 
   const SOURCE_LABEL = {
     "original": "autentisk",
-    "ai-v3": "ai-genereret",
+    "ai": "ai-genereret",
   };
 
   async function loadQuotes() {

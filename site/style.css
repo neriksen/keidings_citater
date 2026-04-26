@@ -96,7 +96,7 @@ header .sub {
 
 #quote-card {
   width: 100%;
-  margin: 0 0 2.5rem 0;
+  margin: 0 0 1.5rem 0;
   padding: 2.25rem 0;
   border-top: 1px solid var(--rule);
   border-bottom: 1px solid var(--rule);
@@ -124,9 +124,17 @@ blockquote.fading {
   margin-top: 1.5rem;
   font-size: 0.75rem;
   color: var(--muted);
-  font-style: normal;
   letter-spacing: 0.12em;
   text-transform: uppercase;
+}
+
+.counter {
+  font-size: 0.72rem;
+  color: var(--muted);
+  letter-spacing: 0.1em;
+  margin: 0 0 1.5rem 0;
+  font-variant-numeric: tabular-nums;
+  min-height: 1em;
 }
 
 button {
@@ -152,6 +160,14 @@ button:focus-visible {
 
 button:active {
   transform: translateY(1px);
+}
+
+.hint {
+  margin: 0.7rem 0 0 0;
+  font-size: 0.7rem;
+  color: var(--muted);
+  letter-spacing: 0.08em;
+  font-style: italic;
 }
 
 footer {
